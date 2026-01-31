@@ -1,0 +1,57 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised wordlist for Sigulei and Salang (NBG 1912)
+  derived from Stokhof and Almanar's "Holle lists:
+  Vocabularies in languages of Indonesia, Vol. 10/3: Islands
+  off the west coast of Sumatra" from 1987
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file and the original legacy sources (Stokhof
+  1980; Stokhof and Almanar 1987)
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: I Putu Eda
+    family-names: Wikanda
+    affiliation: Udayana University
+    email: edawikanda@gmail.com
+  - given-names: Arya Prawira
+    family-names: Kusuma
+    email: aryaprawira2003@gmail.com
+    affiliation: Udayana University
+  - given-names: Nicholas Putra
+    family-names: Nugraha
+    email: nugrahanicho@gmail.com
+    affiliation: Udayana University
+  - given-names: Samuel Gabriel
+    family-names: Kadiman
+    email: sams.gk7734@gmail.com
+    affiliation: Udayana University
+repository-code: >-
+  https://github.com/Holle-List/sigule-salang-1912-holle-list
+keywords:
+  - wordlist
+  - Holle List
+  - Sigulei
+  - Sigulè
+  - Barrier Islands Languages
+  - Indonesian Languages
+  - Sumatra
+  - Sumatran
+  - Lexicon
+  - Digital Humanities
+  - Legacy Lexical Resources
+  - Linguistics
+  - Lexicography
+  - Documentary Lexicography
+  - Lexical Database
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2026-01-31'
