@@ -14,7 +14,7 @@ the Sigule-Salang list	17	mangélé elo mata	NA	traan	tear	air mata (tunggal)	
 the Sigule-Salang list	18	nichoe	NA	neus	nose	hidung	11	11	16	TRUE									NOSE	1221	https://concepticon.clld.org/parameters/1221
 the Sigule-Salang list	20	bèngó	NA	snot	mucus	ingus	-	12	18	FALSE									NASAL MUCUS (SNOT)	208	https://concepticon.clld.org/parameters/208
 the Sigule-Salang list	21	kāsàng	NA	wang	cheek	pipi	23	24	19	FALSE									CHEEK	1730	https://concepticon.clld.org/parameters/1730
-the Sigule-Salang list	21	 gasang	NA	wang	cheek	pipi	23	24	19	FALSE									CHEEK	1730	https://concepticon.clld.org/parameters/1730
+the Sigule-Salang list	21	gasang	NA	wang	cheek	pipi	23	24	19	FALSE									CHEEK	1730	https://concepticon.clld.org/parameters/1730
 the Sigule-Salang list	22	bàfaˈ	NA	mond	mouth	mulut	12	13	-	TRUE									MOUTH	674	https://concepticon.clld.org/parameters/674
 the Sigule-Salang list	25	bivi	NA	lippen	lips	bibir (jamak)	13	14	-	FALSE									LIP	478	https://concepticon.clld.org/parameters/478
 the Sigule-Salang list	26	béfé	NA	lip	lip	bibir	-	-	22	FALSE									LIP	478	https://concepticon.clld.org/parameters/478
@@ -22,24 +22,22 @@ the Sigule-Salang list	27	choemi	NA	knevel	moustache	kumis	21	22	23	FALSE							
 the Sigule-Salang list	28	djangkoewi	NA	sik	goatee	janggut seperti, janggut kambing	22	23	-	FALSE									BEARD	678	https://concepticon.clld.org/parameters/678
 the Sigule-Salang list	29	imbi	NA	kin	chin	dagu	19	20	24	FALSE									CHIN	1510	https://concepticon.clld.org/parameters/1510
 the Sigule-Salang list	30	djangowi	NA	baard	beard	janggut	20	21	25	FALSE									BEARD	678	https://concepticon.clld.org/parameters/678
-the Sigule-Salang list	30	 djambé	NA	baard	beard	janggut	20	21	25	FALSE									BEARD	678	https://concepticon.clld.org/parameters/678
+the Sigule-Salang list	30	djambé	NA	baard	beard	janggut	20	21	25	FALSE									BEARD	678	https://concepticon.clld.org/parameters/678
 the Sigule-Salang list	31	nila	NA	tong	tongue	lidah	15	16	26	TRUE									TONGUE	1205	https://concepticon.clld.org/parameters/1205
-the Sigule-Salang list	31	 leulaˈ	NA	tong	tongue	lidah	15	16	26	TRUE									TONGUE	1205	https://concepticon.clld.org/parameters/1205
+the Sigule-Salang list	31	leulaˈ	NA	tong	tongue	lidah	15	16	26	TRUE									TONGUE	1205	https://concepticon.clld.org/parameters/1205
 the Sigule-Salang list	32	langi²	NA	verhemelte	palate	langit-langit	16	17	27	FALSE									PALATE	540	https://concepticon.clld.org/parameters/540
 the Sigule-Salang list	33	nifĕu	1	tand	tooth	gigi	17	18	28	TRUE			deuhoe nifĕu	tooth powder					TOOTH	1380	https://concepticon.clld.org/parameters/1380
 the Sigule-Salang list	34	boa	NA	kies	molar	geraham	18	19	29	FALSE									MOLAR TOOTH	1049	https://concepticon.clld.org/parameters/1049
 the Sigule-Salang list	36	naetōˈ	NA	hersenen	brains	otak	-	-	31	FALSE									BRAIN	1583	https://concepticon.clld.org/parameters/1583
 the Sigule-Salang list	37	alekoem	NA	keel	throat	kerongkongan	14	15	32	FALSE									THROAT	1346	https://concepticon.clld.org/parameters/1346
 the Sigule-Salang list	38	nòkae	NA	hals	neck	leher	27	28	33	TRUE									NECK	1333	https://concepticon.clld.org/parameters/1333
-the Sigule-Salang list	41/42	tòtòˈ	NA	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE									BREAST	1402	https://concepticon.clld.org/parameters/1402
-the Sigule-Salang list	41/42	 dòtòˈ	NA	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE									BREAST	1402	https://concepticon.clld.org/parameters/1402
 the Sigule-Salang list	43	naleu	NA	borst	breast	dada (tunggal)	-	-	36	TRUE									BREAST	1402	https://concepticon.clld.org/parameters/1402
 the Sigule-Salang list	45	dòtòˈ	NA	tepel	nipple	puting susu	35	37	38	FALSE									NIPPLE	796	https://concepticon.clld.org/parameters/796
 the Sigule-Salang list	46	soesoe	NA	melk	breast milk	air susu	36	38	39	FALSE									BREAST MILK	3912	https://concepticon.clld.org/parameters/3912
-the Sigule-Salang list	46	 mangoe	NA	melk	breast milk	air susu	36	38	39	FALSE									BREAST MILK	3912	https://concepticon.clld.org/parameters/3912
+the Sigule-Salang list	46	mangoe	NA	melk	breast milk	air susu	36	38	39	FALSE									BREAST MILK	3912	https://concepticon.clld.org/parameters/3912
 the Sigule-Salang list	48	tòtòh	NA	zuigen <aan de borst>	to suck at the breast	menyusu	38	39	40	FALSE									SUCKLE (BREASTFEED, NURSE)	2472	https://concepticon.clld.org/parameters/2472
 the Sigule-Salang list	50	roesoe	NA	rib	rib	tulang rusuk	69	70	42	FALSE									RIB	801	https://concepticon.clld.org/parameters/801
-the Sigule-Salang list	50	 tèmanoeng	NA	rib	rib	tulang rusuk	69	70	42	FALSE									RIB	801	https://concepticon.clld.org/parameters/801
+the Sigule-Salang list	50	tèmanoeng	NA	rib	rib	tulang rusuk	69	70	42	FALSE									RIB	801	https://concepticon.clld.org/parameters/801
 the Sigule-Salang list	52	mata enden	NA	hart	heart	jantung	29	31	44	TRUE									HEART	1223	https://concepticon.clld.org/parameters/1223
 the Sigule-Salang list	53	bétoea	NA	maag	stomach	lambung	28	30	-	FALSE									STOMACH	819	https://concepticon.clld.org/parameters/819
 the Sigule-Salang list	54	betoewa	NA	bulk	belly	perut	31	33	45	TRUE									BELLY	1251	https://concepticon.clld.org/parameters/1251
@@ -74,7 +72,7 @@ the Sigule-Salang list	100	matai ae	NA	elleboog	elbow	siku	41	42	83	FALSE							
 the Sigule-Salang list	102	laloe dangan	NA	handpalm	palm of the hand	telapak tangan	57	58	85	FALSE									PALM OF HAND	1183	https://concepticon.clld.org/parameters/1183
 the Sigule-Salang list	105	nono danga	NA	vingers	fingers	jari tangan (jamak)	58	59	-	FALSE									FINGER	1303	https://concepticon.clld.org/parameters/1303
 the Sigule-Salang list	107	tĕnĕp (denop)	NA	nagel	(finger)nail	kuku	59	60	89	FALSE									FINGERNAIL OR TOENAIL	1896	https://concepticon.clld.org/parameters/1896
-the Sigule-Salang list	107	 dènĕp	NA	nagel	(finger)nail	kuku	59	60	89	FALSE									FINGERNAIL OR TOENAIL	1896	https://concepticon.clld.org/parameters/1896
+the Sigule-Salang list	107	dènĕp	NA	nagel	(finger)nail	kuku	59	60	89	FALSE									FINGERNAIL OR TOENAIL	1896	https://concepticon.clld.org/parameters/1896
 the Sigule-Salang list	108	indo danga	NA	duim	thumb	ibu jari	60	61	90	FALSE									THUMB	1781	https://concepticon.clld.org/parameters/1781
 the Sigule-Salang list	109	enoe teloe	NA	wijsvinger	index finger	telunjuk	61	62	91	FALSE									FOREFINGER	577	https://concepticon.clld.org/parameters/577
 the Sigule-Salang list	111	nono danga	NA	ringvinger	ring finger	jari manis	63	64	93	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -84,16 +82,13 @@ the Sigule-Salang list	116	dōe	NA	bloed	blood	darah	66	67	98	TRUE									BLOO
 the Sigule-Salang list	117	énalan	NA	vlees op het lichaam	flesh	daging	67	68	99	FALSE									FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
 the Sigule-Salang list	118	koenggå	NA	pees	tendon	urat	68	69	100	FALSE									TENDON	1137	https://concepticon.clld.org/parameters/1137
 the Sigule-Salang list	121	bébé	NA	huid	skin	kulit	70	71	101	TRUE									SKIN	763	https://concepticon.clld.org/parameters/763
-the Sigule-Salang list	122/123	boe	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			boe, boeˈōˈ/ōˈ						HAIR	1040	https://concepticon.clld.org/parameters/1040
-the Sigule-Salang list	122/123	 boeˈōˈ/ōˈ	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			boe, boeˈōˈ/ōˈ						HAIR	1040	https://concepticon.clld.org/parameters/1040
-the Sigule-Salang list	122/123	soelòˈ	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			soelòˈ	hairpin					HAIR	1040	https://concepticon.clld.org/parameters/1040
 the Sigule-Salang list	124	ating	NA	zweet	sweat	keringat	73	74	103	FALSE									SWEAT (SUBSTANCE)	125	https://concepticon.clld.org/parameters/125
 the Sigule-Salang list	125	nilo	NA	speeksel	saliva	ludah	74	75	104	FALSE									SALIVA	1503	https://concepticon.clld.org/parameters/1503
 the Sigule-Salang list	126	nifoefoei	NA	fluim	phlegm	dahak	-	76	105	FALSE									PHLEGM	3061	https://concepticon.clld.org/parameters/3061
 the Sigule-Salang list	128	manga	NA	eten	to eat	makan	116	117	107	TRUE	eat								EAT	1336	https://concepticon.clld.org/parameters/1336
 the Sigule-Salang list	129	olōfōˈ	NA	hongerig	hungry	lapar	734	752	108	FALSE									BE HUNGRY	1533	https://concepticon.clld.org/parameters/1533
 the Sigule-Salang list	130	manginoe	NA	drinken	to drink	minum	117	118	109	TRUE	drink								DRINK	1401	https://concepticon.clld.org/parameters/1401
-the Sigule-Salang list	130	 anggouw gouw	NA	drinken	to drink	minum	117	118	109	TRUE	drink								DRINK	1401	https://concepticon.clld.org/parameters/1401
+the Sigule-Salang list	130	anggouw gouw	NA	drinken	to drink	minum	117	118	109	TRUE	drink								DRINK	1401	https://concepticon.clld.org/parameters/1401
 the Sigule-Salang list	131	anggalifō	NA	dronken	drunk	mabuk	-	474	367	FALSE									DRUNK	1463	https://concepticon.clld.org/parameters/1463
 the Sigule-Salang list	132	angauwngouw	NA	dorstig	thirsty	haus	736	754	110	FALSE									THIRSTY	847	https://concepticon.clld.org/parameters/847
 the Sigule-Salang list	133	motola aboewo	NA	verzadigd	satisfied	kenyang, puas	735	753	111	FALSE									FULL	1429	https://concepticon.clld.org/parameters/1429
@@ -113,7 +108,7 @@ the Sigule-Salang list	152	besélōˈ	NA	hurken	to squat	berjongkok	129	131	12
 the Sigule-Salang list	153	bernang	NA	zwemmen	to swim	berenang	131	133	129	TRUE	swim, to								SWIM	1439	https://concepticon.clld.org/parameters/1439
 the Sigule-Salang list	154	mondi	NA	baden <intr.>	to take a bath	mandi	169	173	130	FALSE									WASH	1453	https://concepticon.clld.org/parameters/1453
 the Sigule-Salang list	156	kelau	NA	stotteren	to stammer	gagap	133	135	132	FALSE									STUTTER	1866	https://concepticon.clld.org/parameters/1866
-the Sigule-Salang list	156	 kakap	NA	stotteren	to stammer	gagap	133	135	132	FALSE									STUTTER	1866	https://concepticon.clld.org/parameters/1866
+the Sigule-Salang list	156	kakap	NA	stotteren	to stammer	gagap	133	135	132	FALSE									STUTTER	1866	https://concepticon.clld.org/parameters/1866
 the Sigule-Salang list	157	ni kajoen	NA	brouwen	to speak with a burr	berbicara dengan artikulasi uvular	134	136	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	158	soearaˈ	NA	stem	voice	suara	135	137	133	FALSE									VOICE	1363	https://concepticon.clld.org/parameters/1363
 the Sigule-Salang list	159	dého	NA	schor(hees)	hoarse	parau	-	716	134	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -159,19 +154,15 @@ the Sigule-Salang list	228	aféo	NA	doof	deaf	tuli	194	198	185	FALSE									DE
 the Sigule-Salang list	229	aboeta	NA	blind	blind	buta	195	199	186	FALSE									BLIND	1653	https://concepticon.clld.org/parameters/1653
 the Sigule-Salang list	231	djoeling	NA	scheel	squinting	juling	196	200	188	FALSE									SQUINT-EYED	87	https://concepticon.clld.org/parameters/87
 the Sigule-Salang list	232	poeléh	NA	genezen	cured	sembuh	197	201	189	FALSE									CURE	499	https://concepticon.clld.org/parameters/499
-the Sigule-Salang list	233/234	deuwoe	NA	geneesmiddel < unsp.>	medicine [ID_233]; medicine (with magic power) [ID_234]	obat [ID_233]; obat (dari dukun) [ID_234]	-	-	190	FALSE									NA	NA	NA
 the Sigule-Salang list	235	bidan	NA	dokter (dukun)	doctor (medicine man)	dokter (dukun)	200	203	-	FALSE									SHAMAN (FOLK HEALER)	394	https://concepticon.clld.org/parameters/394
-the Sigule-Salang list	236-238	manoesia	NA	mens <unsp.>	man, mankind [ID_236]; people [ID_237]; people [ID_238]	manusia [ID_236]; orang [ID_237]; orang [ID_238]	-	-	191	FALSE									NA	NA	NA
 the Sigule-Salang list	239	deuini	NA	naam	name	nama	113	114	192	TRUE							<?>		NAME	1405	https://concepticon.clld.org/parameters/1405
 the Sigule-Salang list	241	imatoea	NA	man	man	orang laki-laki	75	77	193	TRUE									MALE PERSON	2106	https://concepticon.clld.org/parameters/2106
 the Sigule-Salang list	242	ealofé	NA	vrouw	woman	orang perempuan	76	78	194	TRUE									WOMAN	962	https://concepticon.clld.org/parameters/962
-the Sigule-Salang list	243/244	imatoea nonoko	NA	mannelijk <unsp.>	male (human) [ID_243]; male (animal) [ID_244]	laki-laki [ID_243]; jantan [ID_244]	110	111	195	FALSE									MALE	1553	https://concepticon.clld.org/parameters/1553
 the Sigule-Salang list	248	afoejoeˈ	NA	maagd	virgin	gadis	77	79	-	FALSE									VIRGIN	2298	https://concepticon.clld.org/parameters/2298
 the Sigule-Salang list	249	afoejoeˈ	NA	maagdom	virginity	perawan, kegadisan	77	79	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	250	achè	NA	jongen	boy, lad	anak laki-laki	78	80	-	FALSE									BOY OR SON	2391	https://concepticon.clld.org/parameters/2391
 the Sigule-Salang list	252	nono ealofé	NA	meisje	girl	gadis	79	81	-	FALSE									GIRL	1646	https://concepticon.clld.org/parameters/1646
 the Sigule-Salang list	255	eukoe	NA	vader	father	ayah	80	82	201	TRUE									FATHER	1217	https://concepticon.clld.org/parameters/1217
-the Sigule-Salang list	257/258	nònò	NA	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE									CHILD	2099	https://concepticon.clld.org/parameters/2099
 the Sigule-Salang list	261	ònò dimatoewa	NA	zoon	son	anak laki-laki	83	85	-	FALSE									SON	1620	https://concepticon.clld.org/parameters/1620
 the Sigule-Salang list	262	nono ialafi	NA	dochter	daughter	anak perempuan	84	86	-	FALSE									DAUGHTER	1357	https://concepticon.clld.org/parameters/1357
 the Sigule-Salang list	263	nènèˈ bapaˈ	NA	grootvader	grandfather	nenek laki-laki (kakek)	85	87	207	FALSE									GRANDFATHER	1383	https://concepticon.clld.org/parameters/1383
@@ -181,9 +172,6 @@ the Sigule-Salang list	268	sådarå	NA	broeder	brother	saudara laki-laki	90	91
 the Sigule-Salang list	269	soedarå ilalafi	NA	zuster	sister	saudara perempuan	91	92	-	TRUE									SISTER	1263	https://concepticon.clld.org/parameters/1263
 the Sigule-Salang list	270	molalepaj	NA	oudere broeder	older brother	kakak laki-laki (kandung)	92	93	209	FALSE									OLDER BROTHER	1759	https://concepticon.clld.org/parameters/1759
 the Sigule-Salang list	274	dòlòˈ	NA	kleinkind	grandchild	cucu	94	95	211	FALSE									GRANDCHILD	1617	https://concepticon.clld.org/parameters/1617
-the Sigule-Salang list	275/276	wāli	NA	oom <unsp.>	uncle FB [ID_275]; uncle MB [ID_276]	paman FB [ID_275]; paman MB [ID_276]	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
-the Sigule-Salang list	287-290	achékoe	NA	neef <unsp.>	nephew BoS [ID_287]; nephew ByS [ID_288]; nephew ZoS [ID_289]; nephew ZyS [ID_290]	kemenakan (laki-laki) BoS [ID_287]; kemenakan (laki-laki) ByS [ID_288]; kemenakan laki-laki ZoS [ID_289]; kemenakan laki-laki ZyS [ID_290]	98	99	215	FALSE									NA	NA	NA
-the Sigule-Salang list	291-294	kakah (kasewå)	NA	nicht <unsp.>	niece BoD [ID_291]; niece ByD [ID_292]; niece ZoD [ID_293]; niece ZyD [ID_294]	kemenakan perempuan BoD [ID_291]; kemenakan perempuan ByD [ID_292]; kemenakan perempuan ZoD [ID_293]; kemenakan perempuan ZyD [ID_294]	99	100	215	FALSE									NA	NA	NA
 the Sigule-Salang list	297	matoea	NA	schoonouders	parents-in-law	mertua	-	100a	216	FALSE									PARENTS-IN-LAW	306	https://concepticon.clld.org/parameters/306
 the Sigule-Salang list	299	euˈa	NA	schoonzoon	son-in-law	menantu laki-laki	100	101	-	FALSE									SON-IN-LAW	1056	https://concepticon.clld.org/parameters/1056
 the Sigule-Salang list	300	euˈa	NA	schoondochter	daughter-in-law	menantu perempuan	101	102	-	FALSE									DAUGHTER-IN-LAW	1057	https://concepticon.clld.org/parameters/1057
@@ -207,8 +195,6 @@ the Sigule-Salang list	339	sètan	NA	spook	ghost	setan	209	212	-	FALSE									
 the Sigule-Salang list	340	hantal	NA	goede geest	spirit	ruh baik	212	215	-	FALSE									SPIRIT	53	https://concepticon.clld.org/parameters/53
 the Sigule-Salang list	341	oman-oman	NA	kwade geest	evil spirit	ruh jahat	207/213	210	-	FALSE									DEMON	1973	https://concepticon.clld.org/parameters/1973
 the Sigule-Salang list	342	toepá	NA	vampier (heks, weerwolf)	vampire (witch, werewolf)	suanggi	-	216	230	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Sigule-Salang list	343/344	biehoe	NA	ziel, geest (v.e. levende, v.e. dode) <unsp.>	soul, spirit [ID_343]; soul, ghost [ID_344]	jiwa, nyawa, ruh [ID_343]; ruh orang mati [ID_344]	214	217	231	FALSE									NA	NA	NA
-the Sigule-Salang list	343/344	 njawa	NA	ziel, geest (v.e. levende, v.e. dode) <unsp.>	soul, spirit [ID_343]; soul, ghost [ID_344]	jiwa, nyawa, ruh [ID_343]; ruh orang mati [ID_344]	214	217	231	FALSE									NA	NA	NA
 the Sigule-Salang list	345	toean alami	NA	opperwezen	the supreme being	yang maha kuasa	215	218	-	FALSE									DEITY	3231	https://concepticon.clld.org/parameters/3231
 the Sigule-Salang list	346	pertjaja	NA	geloof	religion	agama	216	-	-	FALSE							<persjaja?>		RELIGION	661	https://concepticon.clld.org/parameters/661
 the Sigule-Salang list	349	allah ta allah	NA	god	god	allah ; tuhan	-	-	234	FALSE		I add a generic term tuhan for god							GOD	1944	https://concepticon.clld.org/parameters/1944
@@ -216,7 +202,7 @@ the Sigule-Salang list	351	toelisan	NA	schrift	writing	tulisan	218	220	-	FALSE		
 the Sigule-Salang list	353	kertas	NA	papier	paper	kertas	220	222	-	FALSE									PAPER	648	https://concepticon.clld.org/parameters/648
 the Sigule-Salang list	354	oela	NA	brief	letter	surat	223	224	-	FALSE									LETTER	1612	https://concepticon.clld.org/parameters/1612
 the Sigule-Salang list	355	kitab	NA	boek (in alg.zin)	book	buku	221	223	-	FALSE									BOOK	963	https://concepticon.clld.org/parameters/963
-the Sigule-Salang list	355	 boekoe	NA	boek (in alg.zin)	book	buku	221	223	-	FALSE									BOOK	963	https://concepticon.clld.org/parameters/963
+the Sigule-Salang list	355	boekoe	NA	boek (in alg.zin)	book	buku	221	223	-	FALSE									BOOK	963	https://concepticon.clld.org/parameters/963
 the Sigule-Salang list	360	langi	NA	hemel	heaven	sorga	228	-	-	FALSE									HEAVEN	1565	https://concepticon.clld.org/parameters/1565
 the Sigule-Salang list	365	mahalĕ kalè	NA	bevolking	population	penduduk	233	231	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	366	kahidoepan	NA	leven hiernamaals	the afterlife	kehidupan setelah mati	234	232	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -245,7 +231,6 @@ the Sigule-Salang list	402	fombilene	NA	rechter	judge	hakim	611	628	-	FALSE					
 the Sigule-Salang list	403	ofeu	NA	pandeling	credit bondsman	orang tergadai	603	622	254	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	404	kandoeri feumate	NA	lijkfeest	funeral ceremony	upacara kematian, pemakaman	245	243	255	FALSE									FUNERAL	3336	https://concepticon.clld.org/parameters/3336
 the Sigule-Salang list	405	mahopai	NA	besnijden	to circumcise	menyunat	-	-	256	FALSE									CIRCUMCISION	393	https://concepticon.clld.org/parameters/393
-the Sigule-Salang list	407/408	chawin	NA	huwen <unsp.> huwelijk	to marry, to take a wife, marriage [ID_407]; to marry, to take a husband, marriage [ID_408]	kawin/menikah, berbini, perkawinan [ID_407]; kawin/menikah, berlaki, perkawinan [ID_408]	246	244	258	FALSE									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
 the Sigule-Salang list	410	nifoeaˈ	NA	scheiden	to divorce	bercerai	247	245	260	FALSE									DIVORCE (SEPARATE)	3672	https://concepticon.clld.org/parameters/3672
 the Sigule-Salang list	411	panoelang	NA	bruidsschat	bride price	mas kawin	248	246	261	FALSE									BRIDE PRICE	3024	https://concepticon.clld.org/parameters/3024
 the Sigule-Salang list	412	djandji chawin	NA	trouwbelofte	betrothal	perjanjian	249	247	-	FALSE									AGREEMENT	3644	https://concepticon.clld.org/parameters/3644
@@ -266,16 +251,13 @@ the Salang-Sigule list	432	bedjodi	NA	spelen	to play	bermain	-	263	273	TRUE	play
 the Salang-Sigule list	433	ofenja	NA	tol	top	gasing	-	264	274	FALSE									TOP	1753	https://concepticon.clld.org/parameters/1753
 the Salang-Sigule list	437	nohé	NA	huis	house	rumah	265	265	278	FALSE									HOUSE	1252	https://concepticon.clld.org/parameters/1252
 the Salang-Sigule list	438	leheu-leheu	NA	hut (op het veld enz.)	hut, shelter	pondok	266	266	279	FALSE									HUT	1678	https://concepticon.clld.org/parameters/1678
-the Salang-Sigule list	441/442	lengkěp nohé	NA	dakbedekking <unsp.>	roofing: thatch [ID_441]; roofing: bamboo lath [ID_442]	atap [ID_441]; atap: bilah, pelupuh bambu [ID_442]	268	268	-	FALSE		add. Malay							ROOF	769	https://concepticon.clld.org/parameters/769
 the Salang-Sigule list	446	tekěntiae	NA	dakspar	rafter	kasau	-	270	282	FALSE									RAFTER	829	https://concepticon.clld.org/parameters/829
-the Salang-Sigule list	446	 heté hioe	NA	dakspar	rafter	kasau	-	270	282	FALSE									RAFTER	829	https://concepticon.clld.org/parameters/829
+the Salang-Sigule list	446	heté hioe	NA	dakspar	rafter	kasau	-	270	282	FALSE									RAFTER	829	https://concepticon.clld.org/parameters/829
 the Salang-Sigule list	449	bintoe	NA	deur	door	daun pintu	270	271	-	FALSE									DOOR	1567	https://concepticon.clld.org/parameters/1567
 the Salang-Sigule list	451	leurkefi bélé	NA	venster	window	jendela	271	272	-	FALSE									WINDOW	1375	https://concepticon.clld.org/parameters/1375
 the Salang-Sigule list	452	oedjoeng	NA	hoek	corner	sudut	-	273	286	FALSE									CORNER	192	https://concepticon.clld.org/parameters/192
 the Salang-Sigule list	453	nola	NA	trap	staircase, steps	tangga, anak tangga	272	274	287	FALSE		add. anak tangga							STAIRS	34	https://concepticon.clld.org/parameters/34
 the Salang-Sigule list	454	bāfaˈ oela	NA	ladder	ladder	tangga	273	275	287	FALSE									LADDER	1464	https://concepticon.clld.org/parameters/1464
-the Salang-Sigule list	456/457	fofaˈ	NA	vloer <unsp.>	floor (made from bamboo lath) [ID_456]; floor (made from wood) [ID_457]	lantai (dari bambu) [ID_456]; lantai (dari kayu) [ID_457]	274	276	289	FALSE									FLOOR	1632	https://concepticon.clld.org/parameters/1632
-the Salang-Sigule list	458/459	dinding	NA	omwanding <unsp.>	wall (plank wall) [ID_458]; wall (bamboo wall) [ID_459]	dinding (papan) [ID_458]; dinding (bilik) [ID_459]	275	277	290	FALSE									NA	NA	NA
 the Salang-Sigule list	461	kai nohé alawa	NA	hoofdstijlen	main posts	tiang rumah	276	278	292	FALSE									COLUMN	2045	https://concepticon.clld.org/parameters/2045
 the Salang-Sigule list	463	banoea meuleu	9	bed	bed	tempat tidur	280	-	-	FALSE			teumpat ek (heuta)						BED	1663	https://concepticon.clld.org/parameters/1663
 the Salang-Sigule list	464	beuchafa bintoe	NA	gordijn	curtain	tirai	281	282	-	FALSE									CURTAIN	2621	https://concepticon.clld.org/parameters/2621
@@ -283,25 +265,22 @@ the Salang-Sigule list	465	banoea meuleu	NA	slaapplaats	sleeping place	kamar tid
 the Salang-Sigule list	466	keléˈ	NA	kamertje	small room	kamar	-	-	294	FALSE									ROOM	1450	https://concepticon.clld.org/parameters/1450
 the Salang-Sigule list	469	bantan	NA	hoofdkussen	pillow	bantal	291	293	296	FALSE									PILLOW	1044	https://concepticon.clld.org/parameters/1044
 the Salang-Sigule list	470	parêta	NA	zit-en ligplaats	couch	bale-bale	283	284	297	FALSE									SOFA	3099	https://concepticon.clld.org/parameters/3099
-the Salang-Sigule list	472/473	bangkawan	NA	zolder, zolderrek <unsp.>	attic (under the roof) [ID_472]; rack above the fireplace [ID_473]	loteng [ID_472]; para-para [ID_473]	285	286	-	FALSE									NA	NA	NA
 the Salang-Sigule list	474	balang	NA	kookplaats	hearth, fireplace	dapur, tungku	286	287	300	FALSE									FIREPLACE	185	https://concepticon.clld.org/parameters/185
 the Salang-Sigule list	475	aiteu	NA	vuur	fire	api	287	288	301	TRUE									FIRE	221	https://concepticon.clld.org/parameters/221
 the Salang-Sigule list	476	aiteu	NA	brand	fire	api, kebakaran	288	289	-	TRUE									FIRE	221	https://concepticon.clld.org/parameters/221
 the Salang-Sigule list	482	imbōˈ toetoeng	NA	rook	smoke	asap	-	290	306	TRUE									SMOKE (EXHAUST)	778	https://concepticon.clld.org/parameters/778
 the Salang-Sigule list	484	(naitew)	NA	brandhout	fire wood	kayu api	290	292	308	FALSE							<konjeew?>		FIREWOOD	10	https://concepticon.clld.org/parameters/10
 the Salang-Sigule list	485	nitoetoeng	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE									LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
-the Salang-Sigule list	485	 toetoeng fandoe	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE									LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
-the Salang-Sigule list	485	 feéawa	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE									LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
+the Salang-Sigule list	485	toetoeng fandoe	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE									LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
+the Salang-Sigule list	485	feéawa	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE									LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
 the Salang-Sigule list	486	boenoeh fandoe	NA	uitdoen (licht)	to put off (light)	memadamkan (sinar)	294	296	-	FALSE									EXTINGUISH	127	https://concepticon.clld.org/parameters/127
 the Salang-Sigule list	488	goelamboe	NA	bedgordijn	bed curtain	kelambu	297	298	-	FALSE									CURTAIN	2621	https://concepticon.clld.org/parameters/2621
 the Salang-Sigule list	489	bonoio foemotau	NA	zitbankje	bench, seat	bangku untuk duduk	298	299	-	FALSE									BENCH	2584	https://concepticon.clld.org/parameters/2584
 the Salang-Sigule list	491	nieitoeěn	NA	afbreken	to pull down (house)	merobohkan	-	-	311	FALSE									DESTROY	681	https://concepticon.clld.org/parameters/681
 the Salang-Sigule list	493	to afé	NA	pan (ijzeren)	pot (iron)	kuali (besi), panci (besi)	310	312	-	FALSE									POT	1462	https://concepticon.clld.org/parameters/1462
 the Salang-Sigule list	494	balong taneuh	NA	pan (aarden)	pot (earthenware)	panci, kuali (tanah liat)	311	313	-	FALSE									CLAY POT	2055	https://concepticon.clld.org/parameters/2055
-the Salang-Sigule list	495/496	kanèt	NA	rijstketel <unsp.>	rice kettle (copper) [ID_495]; rice kettle (earthenware) [ID_496]	dandang [ID_495]; kundia [ID_496]	312	314	-	FALSE									NA	NA	NA
 the Salang-Sigule list	497	gambatāe	NA	bord	dish	piring	313	315	313	FALSE									PLATE	480	https://concepticon.clld.org/parameters/480
 the Salang-Sigule list	499	banaisda	NA	drinknap	drinking bowl	tempat minum	315	317	314	FALSE									CUP	476	https://concepticon.clld.org/parameters/476
-the Salang-Sigule list	501/502	gambateu	NA	schotel <unsp.>	saucer (earthenware) [ID_501]; small saucer (earthenware) [ID_502]	pinggan [ID_501]; pinggan kecil [ID_502]	317	318	315	FALSE									NA	NA	NA
 the Salang-Sigule list	505	bisōˈ	NA	mes	knife	pisau	299	300	317	FALSE									KNIFE	1352	https://concepticon.clld.org/parameters/1352
 the Salang-Sigule list	506	baae	NA	hakmes	chopper	parang	300	301	318	FALSE									CLEAVER	3067	https://concepticon.clld.org/parameters/3067
 the Salang-Sigule list	507	galé	NA	dolk (kris)	kris	keris	302	304	-	FALSE									SWORD	1535	https://concepticon.clld.org/parameters/1535
@@ -317,8 +296,6 @@ the Salang-Sigule list	517	oeloe	NA	fakkel	torch	suluh	323	324	325	FALSE								
 the Salang-Sigule list	518	salapa	NA	kist	case	peti	-	-	326	FALSE									BOX OR CHEST	3150	https://concepticon.clld.org/parameters/3150
 the Salang-Sigule list	519	beti etété	NA	doos	box, case	kotak, dos	327	328	-	FALSE									BOX OR CHEST	3150	https://concepticon.clld.org/parameters/3150
 the Salang-Sigule list	522	batim	NA	pot	pot, jar	periuk	325	326	-	FALSE									POT	1462	https://concepticon.clld.org/parameters/1462
-the Salang-Sigule list	525-527	manogaj	NA	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE									COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
-the Salang-Sigule list	525-527	 auwhōˈ	NA	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE									COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
 the Salang-Sigule list	528	randang	NA	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE									BAKE	183	https://concepticon.clld.org/parameters/183
 the Salang-Sigule list	529	moeloe	NA	poffen	to roast (in ashes)	bembam	330	331	331	FALSE									ROAST (SOMETHING)	1962	https://concepticon.clld.org/parameters/1962
 the Salang-Sigule list	530	dinoetōng	NA	roosteren	to grill, to roast	panggang	331	332	332	FALSE									ROAST (SOMETHING)	1962	https://concepticon.clld.org/parameters/1962
@@ -328,9 +305,7 @@ the Salang-Sigule list	534	makonon	NA	spijs(eten)	food	makanan	332	333	336	FALSE
 the Salang-Sigule list	535	benaloe	NA	reisvoorraad, proviand	provisions	bekal	333	334	337	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	536	sambaˈe	NA	toespijs	side-dish	lauk-pauk	334	335	-	FALSE									PREPARED FOOD	3542	https://concepticon.clld.org/parameters/3542
 the Salang-Sigule list	537	ālōeˈ	NA	groente	vegetables	sayuran	344	346	338	FALSE									VEGETABLES	924	https://concepticon.clld.org/parameters/924
-the Salang-Sigule list	539/540	inalan	NA	vlees <unsp. >	meat (raw) [ID_539]; dried meat [ID_540]	daging (mentah) [ID_539]; dendeng [ID_540]	335	336	-	FALSE									FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
 the Salang-Sigule list	541	in alan daloe leuhoe	NA	vis (in het algemeen of in tegenstelling van vlees)	fish	ikan	336/404	337	341	TRUE									FISH	227	https://concepticon.clld.org/parameters/227
-the Salang-Sigule list	543-545	beula	NA	rijst (rijst in de halm, gepelde rauwe rijst, gekookte rijst <unsp.>	harvested rice [ID_543]; husked rice [ID_544]; cooked rice [ID_545]	padi yang sudah diketam [ID_543]; beras [ID_544]; nasi [ID_545]	-	338	-	FALSE									NA	NA	NA
 the Salang-Sigule list	546	faché	NA	padi	unhusked rice	padi	454	456	-	FALSE									UNHUSKED RICE	2749	https://concepticon.clld.org/parameters/2749
 the Salang-Sigule list	547	daloe (faché)	NA	halm	stalk	tangkai padi, batang padi	455	457	346	FALSE									PLANT STEM	2628	https://concepticon.clld.org/parameters/2628
 the Salang-Sigule list	549	bomwafachè	NA	rijstschuur, padischuur	rice barn	lumbung beras, lumbung padi	279	281	348	FALSE									GRANARY	3657	https://concepticon.clld.org/parameters/3657
@@ -346,11 +321,8 @@ the Salang-Sigule list	563	aijo	NA	zout (subst.)	salt	garam	343	345	360	TRUE				
 the Salang-Sigule list	565	sarong	NA	sarong	sarong	sarung	415	418	369	FALSE									SARONG	2413	https://concepticon.clld.org/parameters/2413
 the Salang-Sigule list	567	aboendong	NA	broek	trousers	celana	416	419	371	FALSE									TROUSERS	809	https://concepticon.clld.org/parameters/809
 the Salang-Sigule list	568	kabaja	NA	kabaai	kebaya	kebaya	417	-	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Salang-Sigule list	569/570	badji	NA	baadje <unsp.>	jacket (for women) [ID_569]; jacket (for men) [ID_570]	baju perempuan [ID_569]; baju laki-laki [ID_570]	-	420	372	FALSE									NA	NA	NA
-the Salang-Sigule list	571/572	bedahaj	NA	hoofddoek <unsp.>	head cloth (for women) [ID_571]; head cloth (for men) [ID_572]	ikat kepala perempuan [ID_571]; ikat kepala laki-laki [ID_572]	-	421	373	FALSE									NA	NA	NA
 the Salang-Sigule list	573	oechoe	NA	kam	comb	sisir	418	422	374	FALSE									COMB	1475	https://concepticon.clld.org/parameters/1475
 the Salang-Sigule list	576	bondāˈ	NA	ring	ring	cincin	419	423	-	FALSE									RING	1374	https://concepticon.clld.org/parameters/1374
-the Salang-Sigule list	579-581	beubeusaloenonoˈ	NA	band of ring <unsp.>	arm ring, bracelet [ID_579]; anklet [ID_580]; arm ring (upper arm) [ID_581]	gelang tangan [ID_579]; gelang laki [ID_580]; gelang lengan [ID_581]	-	-	377	FALSE									NA	NA	NA
 the Salang-Sigule list	582	eunǎm koekoejoe	NA	oorring	earring	anting-anting	422	426	-	FALSE									EARRING	770	https://concepticon.clld.org/parameters/770
 the Salang-Sigule list	583	neukoe koejoe	NA	oorknop	earclip	subang	423	427	-	FALSE									EARRING	770	https://concepticon.clld.org/parameters/770
 the Salang-Sigule list	586	salendang	NA	slendang	shawl	selendang	424	428	-	FALSE									SHAWL	2771	https://concepticon.clld.org/parameters/2771
@@ -362,7 +334,6 @@ the Salang-Sigule list	601	mamoetar tali	NA	touwdraaien	to twine a rope	memintal
 the Salang-Sigule list	602	tali	NA	touw	rope	tali	558	565	390	TRUE									ROPE	1218	https://concepticon.clld.org/parameters/1218
 the Salang-Sigule list	603	menang	NA	garen	thread, yarn	benang	559	566	-	FALSE									THREAD	1161	https://concepticon.clld.org/parameters/1161
 the Salang-Sigule list	604	nibeubeu	NA	knopen (van netten, een knoop leggen)	to knot, to knit	merajut, menyirat	561	568	391	FALSE									KNOT	760	https://concepticon.clld.org/parameters/760
-the Salang-Sigule list	605/606	kopper	NA	tas of zak <unsp.>	bag (woven bag) [ID_605]; bag (made from rope) [ID_606]	tas (dari bahan tenun) [ID_605]; tas (dari tali) [ID_606]	432	434	392	FALSE									NA	NA	NA
 the Salang-Sigule list	607	roedoeó	NA	zwaard	sword	pedang	-	-	393	FALSE									SWORD	1535	https://concepticon.clld.org/parameters/1535
 the Salang-Sigule list	609	doema	NA	schede	sheath	sarung pedang	-	303	394	FALSE									SHEATH	3424	https://concepticon.clld.org/parameters/3424
 the Salang-Sigule list	610	nitata	NA	hakken, houwen	to chip, cut, slash	menetak, membacok	-	-	395	TRUE	cut								CUT	1432	https://concepticon.clld.org/parameters/1432
@@ -374,7 +345,7 @@ the Salang-Sigule list	614	koengeå	NA	pees	bowstring	tali busur	306	309	-	FALS
 the Salang-Sigule list	618	bandera	NA	vlag	flag	bendera	308	-	-	FALSE									FLAG	2623	https://concepticon.clld.org/parameters/2623
 the Salang-Sigule list	619	meriam	NA	lila	kind of small cannon	sejenis kanon kecil	620	634	-	FALSE									CANNON	3202	https://concepticon.clld.org/parameters/3202
 the Salang-Sigule list	620	senapan	NA	geweer	rifle	bedil (senapan)	621	635	402	FALSE									PISTOL	3881	https://concepticon.clld.org/parameters/3881
-the Salang-Sigule list	620	 bedil	NA	geweer	rifle	bedil (senapan)	621	635	402	FALSE									PISTOL	3881	https://concepticon.clld.org/parameters/3881
+the Salang-Sigule list	620	bedil	NA	geweer	rifle	bedil (senapan)	621	635	402	FALSE									PISTOL	3881	https://concepticon.clld.org/parameters/3881
 the Salang-Sigule list	621	gofat	NA	kruit	gun powder	obat bedil	622	636	403	FALSE									GUNPOWDER	1798	https://concepticon.clld.org/parameters/1798
 the Salang-Sigule list	622	bendin	NA	kogel	bullet	peluru	623	637	404	FALSE									BULLET	1114	https://concepticon.clld.org/parameters/1114
 the Salang-Sigule list	623	nibendin	NA	schieten	to shoot	menembak	624	638	405	TRUE	shoot								SHOOT	1172	https://concepticon.clld.org/parameters/1172
@@ -398,17 +369,12 @@ the Salang-Sigule list	649	balichi	NA	grasmes	knife for cutting grass	alat babat
 the Salang-Sigule list	650	rèmbèˈ	NA	sikkel	sickle	sabit	439	441	-	FALSE									SICKLE	341	https://concepticon.clld.org/parameters/341
 the Salang-Sigule list	652	tjangkol	NA	patjoel, hak	hoe	pacul	441	443	423	FALSE									HOE	284	https://concepticon.clld.org/parameters/284
 the Salang-Sigule list	653	ladang	NA	tuin	garden	kebun	442	444	-	FALSE									GARDEN	586	https://concepticon.clld.org/parameters/586
-the Salang-Sigule list	654/655	novi	NA	rijstveld <unsp.>	rice-field (wet, sawah) [ID_654]; rice-field (dry) [ID_655]	sawah [ID_654]; huma, ladang [ID_655]	443	445	424	FALSE									NA	NA	NA
-the Salang-Sigule list	657/658	loeëng	NA	waterleiding, waterloop <unsp.>	irrigation [ID_657]; water-course channel [ID_658]	pengairan [ID_657]; aliran air, terusan [ID_658]	-	-	426	FALSE									NA	NA	NA
-the Salang-Sigule list	657/658	 pesoran	NA	waterleiding, waterloop <unsp.>	irrigation [ID_657]; water-course channel [ID_658]	pengairan [ID_657]; aliran air, terusan [ID_658]	-	-	426	FALSE									NA	NA	NA
 the Salang-Sigule list	659	galoe	NA	omheining	fence, hedge	pagar	446	448	427	FALSE									FENCE	1690	https://concepticon.clld.org/parameters/1690
 the Salang-Sigule list	660	boea boeahan	NA	gewas	vegetation	tumbuhan	447	449	-	FALSE									PLANT (VEGETATION)	653	https://concepticon.clld.org/parameters/653
-the Salang-Sigule list	662/663	nitoněu	NA	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE									SOW SEEDS	748	https://concepticon.clld.org/parameters/748
 the Salang-Sigule list	664	toneumeu	NA	zaad	seed	benih	449	451	-	TRUE									SEED	714	https://concepticon.clld.org/parameters/714
 the Salang-Sigule list	665	taneuh	NA	planten	to plant	menanam	450	452	430	FALSE									PLANT (SOMETHING)	1486	https://concepticon.clld.org/parameters/1486
 the Salang-Sigule list	668	ateha	NA	rijp	ripe	masak, matang	451	453	433	FALSE									RIPE	178	https://concepticon.clld.org/parameters/178
 the Salang-Sigule list	669	adenaen oenoko	NA	onrijp	unripe	belum masak, belum matang, mentah	452	454	434	FALSE							<omoko?>		UNRIPE	1958	https://concepticon.clld.org/parameters/1958
-the Salang-Sigule list	671/672	mamahi	NA	oogsten <unsp.>	to reap [ID_671]; to gather [ID_672]	menuai [ID_671]; mengumpulkan (buah-buahan) [ID_672]	453	455	-	FALSE									HARVEST	611	https://concepticon.clld.org/parameters/611
 the Salang-Sigule list	673	niboengkan	13	plukken	to pick	memetik	-	-	436	FALSE			nioendal boengau	to pick a flower					PICK	2148	https://concepticon.clld.org/parameters/2148
 the Salang-Sigule list	673	niboengkan	13	plukken	to pick	memetik	-	-	436	FALSE			akete afeu dengan <...?>	to pluck a chicken					PICK	2148	https://concepticon.clld.org/parameters/2148
 the Salang-Sigule list	674	iahoeng	NA	mais, djagong	maize, corn	jagung	457	459	437	FALSE									MAIZE	506	https://concepticon.clld.org/parameters/506
@@ -431,7 +397,6 @@ the Salang-Sigule list	709	anaˈha	NA	nangka	Artocarpus integrifolia, Jack fruit
 the Salang-Sigule list	710	ramboetantōˈ	NA	ramboetan	Nephelium lappaceum	rambutan	476	480	459	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	711	doelian	NA	doerian	Durio zibethinus	durian	477	481	460	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	712	djamboe	NA	djamboe	Eugenia	jambu	478	482	461	FALSE									GUAVA	3981	https://concepticon.clld.org/parameters/3981
-the Salang-Sigule list	716-718	gaai (baba)	NA	pisang <unsp.>	banana [ID_716]; banana (wild) [ID_717]; banana (fruit) [ID_718]	pisang [ID_716]; pisang (liar) [ID_717]; pisang (buah) [ID_718]	489	492	464	FALSE									BANANA	868	https://concepticon.clld.org/parameters/868
 the Salang-Sigule list	720	dima	NA	sinaasappel	orange	jeruk manis	491	494	-	FALSE									ORANGE (FRUIT)	2627	https://concepticon.clld.org/parameters/2627
 the Salang-Sigule list	722	djeroeg	NA	citroen	lemon	jeruk sitrun	493	497	-	FALSE									LEMON	3091	https://concepticon.clld.org/parameters/3091
 the Salang-Sigule list	723	kopi	NA	koffie	coffee	kopi	494	498	-	FALSE									COFFEE	1299	https://concepticon.clld.org/parameters/1299
@@ -439,16 +404,14 @@ the Salang-Sigule list	726	gambir	NA	gambir	Uncaria gambir	gambir	498	503	364	FA
 the Salang-Sigule list	728	afōˈ	NA	kalk (kalksteen)	lime	kapur	576	502	363	FALSE									LIME (MATERIAL)	2540	https://concepticon.clld.org/parameters/2540
 the Salang-Sigule list	729	hondin	NA	kurkuma (koenjit)	Curcuma domestica	kunyit	500	505	467	FALSE									TURMERIC	2842	https://concepticon.clld.org/parameters/2842
 the Salang-Sigule list	731	noeeoe	NA	rotan	rattan, cane	rotan	501	506	469	FALSE									RATTAN	2497	https://concepticon.clld.org/parameters/2497
-the Salang-Sigule list	732	galèˈ (lee foen saboe)	14	bamboe	bamboo	bambu	502	507	470	FALSE			galèˈ (lee foen saboe); tiëng boelòh						BAMBOO	1927	https://concepticon.clld.org/parameters/1927
-the Salang-Sigule list	732	 tiëng boelòh	14	bamboe	bamboo	bambu	502	507	470	FALSE			galèˈ (lee foen saboe); tiëng boelòh						BAMBOO	1927	https://concepticon.clld.org/parameters/1927
 the Salang-Sigule list	732	tieng doròe galèh	14	bamboe	bamboo	bambu	502	507	470	FALSE			tieng doròe galèh	bamboo (doeri)					BAMBOO	1927	https://concepticon.clld.org/parameters/1927
+the Salang-Sigule list	732	galèˈ (lee foen saboe)	14	bamboe	bamboo	bambu	502	507	470	FALSE			galèˈ (lee foen saboe); tiëng boelòh						BAMBOO	1927	https://concepticon.clld.org/parameters/1927
+the Salang-Sigule list	732	tiëng boelòh	14	bamboe	bamboo	bambu	502	507	470	FALSE			galèˈ (lee foen saboe); tiëng boelòh						BAMBOO	1927	https://concepticon.clld.org/parameters/1927
 the Salang-Sigule list	733	ramboeng	NA	jonge bamboespruit	bamboo shoot, young sprout	rebung	-	508	471	FALSE									BAMBOO SHOOT	2494	https://concepticon.clld.org/parameters/2494
 the Salang-Sigule list	734	taloe	NA	boom	tree	pohon	541	549	472	TRUE									TREE	906	https://concepticon.clld.org/parameters/906
 the Salang-Sigule list	735	keeuweeuw	NA	hout	wood	kayu	-	-	473	FALSE									WOOD	1803	https://concepticon.clld.org/parameters/1803
 the Salang-Sigule list	737	mané	NA	klimmen	to climb	memanjat	-	543	-	FALSE									CLIMB	1102	https://concepticon.clld.org/parameters/1102
-the Salang-Sigule list	739/740	daha	NA	tak <unsp.>	branch [ID_739]; twig [ID_740]	dahan, cabang [ID_739]; ranting [ID_740]	542	550	477	FALSE									BRANCH	1531	https://concepticon.clld.org/parameters/1531
 the Salang-Sigule list	741	kra	NA	kernhout	the heart of the tree	hati kayu (pohon)	-	551	478	FALSE									WOOD	1803	https://concepticon.clld.org/parameters/1803
-the Salang-Sigule list	742-744	lèmbanaˈ	NA	wortel <unsp.>	main root, taproot [ID_742]; side-root [ID_743]; fibrous root [ID_744]	ibu akar, akar tunggang [ID_742]; akar samping [ID_743]; akar serabut [ID_744]	543	552	479	TRUE	root								ROOT	670	https://concepticon.clld.org/parameters/670
 the Salang-Sigule list	746	boeloe	NA	blad	leaf	daun	544	553	481	TRUE									LEAF	628	https://concepticon.clld.org/parameters/628
 the Salang-Sigule list	748	bebè	NA	schors	bark	kulit kayu	545	554	483	TRUE									BARK	1204	https://concepticon.clld.org/parameters/1204
 the Salang-Sigule list	749	doroi	NA	doorn	thorn, spine	duri	-	-	484	FALSE									THORN	124	https://concepticon.clld.org/parameters/124
@@ -484,9 +447,7 @@ the Salang-Sigule list	794	eundeu	17	tam varken	domesticated pig	babi	356	358	52
 the Salang-Sigule list	794	aelup	17	tam varken	domesticated pig	babi	356	358	522	FALSE			inalan eundeu, neuhi-bantai	pork					PIG	1337	https://concepticon.clld.org/parameters/1337
 the Salang-Sigule list	797	manggaham	NA	knorren	to grunt	menggeram	357	359	525	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	799	kambing	NA	geit	goat	kambing	-	360	526	FALSE									GOAT	1502	https://concepticon.clld.org/parameters/1502
-the Salang-Sigule list	800-802	keubaw djalang	NA	buffel <unsp.>	buffalo (female) [ID_800]; buffalo (male) [ID_801]; buffalo (calf) [ID_802]	kerbau betina [ID_800]; kerbau jantan [ID_801]; anak kerbau [ID_802]	362	364	527	FALSE									NA	NA	NA
 the Salang-Sigule list	803	sapi	NA	koe	cow	sapi (betina)	360	362	-	FALSE									COW	1007	https://concepticon.clld.org/parameters/1007
-the Salang-Sigule list	803/804	sapialiha	NA	koebeest, rund <unsp.>	cow [ID_803]; bull [ID_804]	sapi (betina) [ID_803]; sapi (jantan) [ID_804]	360	362	528	FALSE									NA	NA	NA
 the Salang-Sigule list	805	faundu	NA	bleren	to bleat, to moo	menguak	-	361	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Salang-Sigule list	807	koedå	NA	paard	horse	kuda	363	365	530	FALSE									HORSE	615	https://concepticon.clld.org/parameters/615
 the Salang-Sigule list	811	nahoēˈ	NA	hond	dog	anjing	366	368	534	TRUE									DOG	2009	https://concepticon.clld.org/parameters/2009
@@ -523,7 +484,6 @@ the Sigule-Salang list	894	laoeloh	NA	schelp	shell	kulit kerang	408	411	606	FALS
 the Sigule-Salang list	896	loembò²	NA	kikvors	frog	katak	409	412	608	FALSE									FROG	503	https://concepticon.clld.org/parameters/503
 the Sigule-Salang list	898	heihé	NA	hagedis	lizard	kadal	410	413	610	FALSE									LIZARD	632	https://concepticon.clld.org/parameters/632
 the Sigule-Salang list	900	boja	NA	krokodil	crocodile	buaya	411	414	612	FALSE									CROCODILE	1857	https://concepticon.clld.org/parameters/1857
-the Sigule-Salang list	901/902	feunoe	NA	schildpad <unsp.>	tortoise [ID_901]; turtle [ID_902]	kura-kura [ID_901]; penyu [ID_902]	413	416	-	FALSE									NA	NA	NA
 the Sigule-Salang list	903	daneu	NA	heelal	universe	alam semesta	505	511	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	905	langi	NA	hemel	sky	langit	507	512	615	TRUE									SKY	1732	https://concepticon.clld.org/parameters/1732
 the Sigule-Salang list	906	mata aenàˈ	NA	zon	sun	matahari	508	513	616	TRUE									SUN	1343	https://concepticon.clld.org/parameters/1343
@@ -545,7 +505,7 @@ the Sigule-Salang list	929	nangi	NA	storm	storm	badai, angin ribut	520	526	635	F
 the Sigule-Salang list	930	idaneu	NA	water	water	air	521	527	636	TRUE									WATER	948	https://concepticon.clld.org/parameters/948
 the Sigule-Salang list	931	taloeleuoe	NA	zee	sea	laut	522	528	637	TRUE	sea (ocean)								SEA	1474	https://concepticon.clld.org/parameters/1474
 the Sigule-Salang list	932	doela idaneu	NA	eb	ebb	surut	523	529	-	FALSE									CEASE	1928	https://concepticon.clld.org/parameters/1928
-the Sigule-Salang list	932	 doela aoeloet	NA	eb	ebb	surut	523	529	-	FALSE									CEASE	1928	https://concepticon.clld.org/parameters/1928
+the Sigule-Salang list	932	doela aoeloet	NA	eb	ebb	surut	523	529	-	FALSE									CEASE	1928	https://concepticon.clld.org/parameters/1928
 the Sigule-Salang list	933	bawa²	NA	meer	lake	danau	-	-	638	TRUE									LAKE	624	https://concepticon.clld.org/parameters/624
 the Sigule-Salang list	934	loefoe	NA	vloed	flood, tide	pasang	524	530	-	FALSE									HIGH TIDE	613	https://concepticon.clld.org/parameters/613
 the Sigule-Salang list	935	bakĕt	NA	golf	wave	ombak	525	531	639	FALSE									WAVE	978	https://concepticon.clld.org/parameters/978
@@ -555,7 +515,6 @@ the Sigule-Salang list	938	fageting nahe	NA	strand	beach	pantai	528	534	641	FALS
 the Sigule-Salang list	939	lala	NA	straat	strait(s)	selat	529	535	-	FALSE									STRAIT	1661	https://concepticon.clld.org/parameters/1661
 the Sigule-Salang list	940	éné (fagalai)	21	zandbank	sandbank	busung pasir	530	536	642	FALSE			pinggir laoet						NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	941	langkin	NA	koraalrif	coral reef	karang	531	537	643	FALSE									REEF	660	https://concepticon.clld.org/parameters/660
-the Sigule-Salang list	942/943	banoewàˈ	NA	land <unsp.>	land [ID_942]; land (state) [ID_943]	darat [ID_942]; negara [ID_943]	532	538	-	FALSE									NA	NA	NA
 the Sigule-Salang list	944	oelaw	NA	eiland	island	pulau	533	539	645	FALSE									ISLAND	622	https://concepticon.clld.org/parameters/622
 the Sigule-Salang list	945	oelaw eundeung	NA	landengte	isthmus	tanah genting	534	540	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	946	mataicheu	NA	landtong, kaap	cape	tanjung, ujung	535	541	646	FALSE									CAPE	1662	https://concepticon.clld.org/parameters/1662
@@ -572,7 +531,7 @@ the Sigule-Salang list	959	lala	23	weg	way, road	jalan	567	574	-	TRUE	road						
 the Sigule-Salang list	960	omboejoe	NA	modder	mud	lumpur	-	575	-	FALSE									MUD	640	https://concepticon.clld.org/parameters/640
 the Sigule-Salang list	961	lai	NA	voetstap (spoor)	footstep (footprint)	bekas tapak kaki, jejak	-	576	658	FALSE									FOOTPRINT	318	https://concepticon.clld.org/parameters/318
 the Sigule-Salang list	962	atéan banais	NA	grens	border, boundary	batas	569	578	660	FALSE									BORDER	2546	https://concepticon.clld.org/parameters/2546
-the Sigule-Salang list	962	 pere batasan	NA	grens	border, boundary	batas	569	578	660	FALSE									BORDER	2546	https://concepticon.clld.org/parameters/2546
+the Sigule-Salang list	962	pere batasan	NA	grens	border, boundary	batas	569	578	660	FALSE									BORDER	2546	https://concepticon.clld.org/parameters/2546
 the Sigule-Salang list	963	gelawa	24	rivier	river	sungai	570	579	661	TRUE			gelawa	river mouth	mulut sungai				RIVER	666	https://concepticon.clld.org/parameters/666
 the Sigule-Salang list	964	ganetela	NA	brug	bridge	jembatan	-	580	662	FALSE									BRIDGE	1011	https://concepticon.clld.org/parameters/1011
 the Sigule-Salang list	965	moedik	NA	stroomop (varen)	to go upstream	berlayar ke hulu	-	581	663	FALSE									SAIL	787	https://concepticon.clld.org/parameters/787
@@ -615,20 +574,20 @@ the Sigule-Salang list	1013	geumeu	NA	schuld	debt	hutang	649	664	699	FALSE						
 the Sigule-Salang list	1015	bajan geumeuni	NA	betalen	to pay	membayar	651	666	701	FALSE									PAY	718	https://concepticon.clld.org/parameters/718
 the Sigule-Salang list	1016	mongafāˈ	NA	verkopen	to sell	menjual	652	667	702	FALSE									SELL	1571	https://concepticon.clld.org/parameters/1571
 the Sigule-Salang list	1017/1018	fafaln	25	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE			fafaln, nélali, ateufan						BORROW	1823	https://concepticon.clld.org/parameters/1823
-the Sigule-Salang list	1017/1018	 nélali	25	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE			fafaln, nélali, ateufan						BORROW	1823	https://concepticon.clld.org/parameters/1823
-the Sigule-Salang list	1017/1018	 ateufan	25	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE			fafaln, nélali, ateufan						BORROW	1823	https://concepticon.clld.org/parameters/1823
+the Sigule-Salang list	1017/1018	nélali	25	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE			fafaln, nélali, ateufan						BORROW	1823	https://concepticon.clld.org/parameters/1823
+the Sigule-Salang list	1017/1018	ateufan	25	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE			fafaln, nélali, ateufan						BORROW	1823	https://concepticon.clld.org/parameters/1823
 the Sigule-Salang list	1019	toekar	NA	ruilen	to exchange	menukar	654	669	704	FALSE									EXCHANGE	2509	https://concepticon.clld.org/parameters/2509
 the Sigule-Salang list	1020	laufèfateuni	NA	bieden	to offer	mempersembahkan	655	670	-	FALSE									DONATE	196	https://concepticon.clld.org/parameters/196
 the Sigule-Salang list	1021	nohe afaj	NA	verpanden	to pawn	menggadaikan	656	671	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	1022	tawar	NA	afdingen	to bargain	menawar	657	672	705	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Sigule-Salang list	1022	 mèfatoehoe	NA	afdingen	to bargain	menawar	657	672	705	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
+the Sigule-Salang list	1022	mèfatoehoe	NA	afdingen	to bargain	menawar	657	672	705	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	1025	gambatoe	26	schaal	a pair of scales	timbangan	659	673	-	FALSE			gambatoe keba				large		SCALES (MEASURE INSTRUMENT)	2783	https://concepticon.clld.org/parameters/2783
 the Sigule-Salang list	1026-1028	kati	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE				a weight	timbangan				NA	NA	NA
-the Sigule-Salang list	1026-1028	 dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE				a weight	timbangan				NA	NA	NA
+the Sigule-Salang list	1026-1028	dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE				a weight	timbangan				NA	NA	NA
 the Sigule-Salang list	1026-1028	kati	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			teula	weights					NA	NA	NA
-the Sigule-Salang list	1026-1028	 dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			teula	weights					NA	NA	NA
+the Sigule-Salang list	1026-1028	dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			teula	weights					NA	NA	NA
 the Sigule-Salang list	1026-1028	kati	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			ieklang	to weigh	timbang				NA	NA	NA
-the Sigule-Salang list	1026-1028	 dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			ieklang	to weigh	timbang				NA	NA	NA
+the Sigule-Salang list	1026-1028	dàsing	27	maten en gewichten <unsp.>	measures and weights (length) [ID_1026]; measures and weights (mass) [ID_1027]; measures and weights (volume and capacity) [ID_1028]	ukuran dan berat (panjang) [ID_1026]; ukuran dan berat (berat) [ID_1027]; ukuran dan berat (isi dan kapasitas) [ID_1028]	660	674	-	FALSE			ieklang	to weigh	timbang				NA	NA	NA
 the Sigule-Salang list	1029/1030	kapan	NA	schip <unsp.>	ship (trading vessel) [ID_1029]; ship (warship) [ID_1030]	kapal dagang [ID_1029]; kapal perang [ID_1030]	661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)							SHIP	740	https://concepticon.clld.org/parameters/740
 the Sigule-Salang list	1031	kapan apoei	NA	stoomboot	steamboat	kapal uap	662	676	-	FALSE									BOAT	1844	https://concepticon.clld.org/parameters/1844
 the Sigule-Salang list	1033	billōˈ (nofo²)	NA	prauw	proa, canoe	perahu	664	678	707	FALSE									CANOE	1970	https://concepticon.clld.org/parameters/1970
@@ -659,7 +618,7 @@ the Sigule-Salang list	1081	aeufeu	NA	schuw	wary, shy, timid	malu (takut), berha
 the Sigule-Salang list	1082	aˈĕufeu	NA	verlegen, beschaamd	shy, ashamed	malu	-	705	740	FALSE									SHY OR ASHAMED	3805	https://concepticon.clld.org/parameters/3805
 the Sigule-Salang list	1083/1084	abacha	NA	diep <unsp.>	deep (river) [ID_1083]; deep (dish) [ID_1084]	dalam (sungai) [ID_1083]; dalam (piring) [ID_1084]	693	710	741	FALSE									DEEP	1593	https://concepticon.clld.org/parameters/1593
 the Sigule-Salang list	1085/1086	atōˈ	29	ondiep <unspec.>	shallow (river) [ID_1085]; shallow (dish) [ID_1086]	dangkal (sungai) [ID_1085]; ceper, leper [ID_1086]	694	711	742	FALSE			āfafeu	shallow <thoughts?>					SHALLOW	193	https://concepticon.clld.org/parameters/193
-the Sigule-Salang list	1085/1086	 āfafeu	29	ondiep <unspec.>	shallow (river) [ID_1085]; shallow (dish) [ID_1086]	dangkal (sungai) [ID_1085]; ceper, leper [ID_1086]	694	711	742	FALSE			āfafeu	shallow <thoughts?>					SHALLOW	193	https://concepticon.clld.org/parameters/193
+the Sigule-Salang list	1085/1086	āfafeu	29	ondiep <unspec.>	shallow (river) [ID_1085]; shallow (dish) [ID_1086]	dangkal (sungai) [ID_1085]; ceper, leper [ID_1086]	694	711	742	FALSE			āfafeu	shallow <thoughts?>					SHALLOW	193	https://concepticon.clld.org/parameters/193
 the Sigule-Salang list	1087	alawa	NA	hoog	high	tinggi	695	712	743	FALSE									HIGH OR TALL	2790	https://concepticon.clld.org/parameters/2790
 the Sigule-Salang list	1088	atōˈ(oe)	NA	laag	low	rendah	696	713	744	FALSE									LOW	721	https://concepticon.clld.org/parameters/721
 the Sigule-Salang list	1089	lipas (atoeleu)	NA	recht	straight	lurus	697	714	745	TRUE									STRAIGHT	1404	https://concepticon.clld.org/parameters/1404
@@ -674,8 +633,8 @@ the Sigule-Salang list	1113	èbolōˈ	NA	breed	broad	luas, lebar	707	725	764	F
 the Sigule-Salang list	1114	itété	NA	smal	small	kecil	708	-	765	TRUE									SMALL	1246	https://concepticon.clld.org/parameters/1246
 the Sigule-Salang list	1115	adechameu	NA	nauw	narrow	sempit	709	726	766	TRUE									NARROW	1267	https://concepticon.clld.org/parameters/1267
 the Sigule-Salang list	1116	maeu maeu	NA	ruim, wijd	wide	luas	710	727	767	TRUE									WIDE	1243	https://concepticon.clld.org/parameters/1243
-the Sigule-Salang list	1116	 lèpang	NA	ruim, wijd	wide	luas	710	727	767	TRUE									WIDE	1243	https://concepticon.clld.org/parameters/1243
-the Sigule-Salang list	1116	 é solo	NA	ruim, wijd	wide	luas	710	727	767	TRUE									WIDE	1243	https://concepticon.clld.org/parameters/1243
+the Sigule-Salang list	1116	lèpang	NA	ruim, wijd	wide	luas	710	727	767	TRUE									WIDE	1243	https://concepticon.clld.org/parameters/1243
+the Sigule-Salang list	1116	é solo	NA	ruim, wijd	wide	luas	710	727	767	TRUE									WIDE	1243	https://concepticon.clld.org/parameters/1243
 the Sigule-Salang list	1117	abeuleu	NA	krachtig, sterk	strong	kokoh	711	728	768	FALSE									STRONG	785	https://concepticon.clld.org/parameters/785
 the Sigule-Salang list	1118	deula	NA	zwak	weak	lemah	712	730	769	FALSE									WEAK	1601	https://concepticon.clld.org/parameters/1601
 the Sigule-Salang list	1119	melawan	NA	dapper	brave, bold	perkasa, gagah	-	729	770	FALSE									BRAVE	3	https://concepticon.clld.org/parameters/3
@@ -687,7 +646,7 @@ the Sigule-Salang list	1129	obehoe	NA	rot	rotten	busuk	-	-	780	TRUE									ROTT
 the Sigule-Salang list	1130	euchi	NA	goed	good	baik, bagus	715	734	781	TRUE									GOOD	1035	https://concepticon.clld.org/parameters/1035
 the Sigule-Salang list	1132-1135	euchi	NA	mooi <unsp.>	beautiful (persons) [ID_1132]; beautiful (male) [ID_1133]; beautiful (fem.) [ID_1134]; beautiful (things) [ID_1135]	elok [ID_1132]; tampan [ID_1133]; cantik [ID_1134]; indah, bagus [ID_1135]	716	735	783	FALSE									NA	NA	NA
 the Sigule-Salang list	1136-1139	nafeu	NA	lelijk <unsp.>	ugly (persons) [ID_1136]; ugly (male) [ID_1137]; ugly (female) [ID_1138]; ugly (things) [ID_1139]	buruk, jelek [ID_1136]; buruk, jelek [ID_1137]; buruk, jelek [ID_1138]; buruk, jelek [ID_1139]	717	736	784	FALSE									NA	NA	NA
-the Sigule-Salang list	1136-1139	 gouw gouw	NA	lelijk <unsp.>	ugly (persons) [ID_1136]; ugly (male) [ID_1137]; ugly (female) [ID_1138]; ugly (things) [ID_1139]	buruk, jelek [ID_1136]; buruk, jelek [ID_1137]; buruk, jelek [ID_1138]; buruk, jelek [ID_1139]	717	736	784	FALSE									NA	NA	NA
+the Sigule-Salang list	1136-1139	gouw gouw	NA	lelijk <unsp.>	ugly (persons) [ID_1136]; ugly (male) [ID_1137]; ugly (female) [ID_1138]; ugly (things) [ID_1139]	buruk, jelek [ID_1136]; buruk, jelek [ID_1137]; buruk, jelek [ID_1138]; buruk, jelek [ID_1139]	717	736	784	FALSE									NA	NA	NA
 the Sigule-Salang list	1141	ōtoe	NA	juist, waar	true, right	benar, betul	-	-	786	TRUE	correct ; right (opp. Wrong)								TRUE	1657	https://concepticon.clld.org/parameters/1657
 the Sigule-Salang list	1142	molaeutǔt	NA	leeg	empty	kosong	719	737	787	FALSE									EMPTY	1624	https://concepticon.clld.org/parameters/1624
 the Sigule-Salang list	1143	afeunoe	NA	vol	full	penuh	720	738	788	TRUE									FULL	1429	https://concepticon.clld.org/parameters/1429
@@ -695,7 +654,7 @@ the Sigule-Salang list	1144	acheui	NA	boos	angry	marah	-	-	789	FALSE									ANG
 the Sigule-Salang list	1145	bouwbouw	NA	gek	mad	gila	-	-	790	FALSE									MAD	1899	https://concepticon.clld.org/parameters/1899
 the Sigule-Salang list	1146/1147	atoeaé	31	vast <unsp.>	tightly bound [ID_1146]; tightly fitting [ID_1147]	terikat [ID_1146]; kencang, erat [ID_1147]	723	740	791	FALSE			nibeubeu	to fasten with a rope					NA	NA	NA
 the Sigule-Salang list	1148/1149	mola atoea	NA	los <unsp.>	loose [ID_1148]; loosely fitting [ID_1149]	lepas [ID_1148]; longgar, kendur [ID_1149]	724	741	792	FALSE									LOOSE	2506	https://concepticon.clld.org/parameters/2506
-the Sigule-Salang list	1148/1149	 mola lepas	NA	los <unsp.>	loose [ID_1148]; loosely fitting [ID_1149]	lepas [ID_1148]; longgar, kendur [ID_1149]	724	741	792	FALSE									LOOSE	2506	https://concepticon.clld.org/parameters/2506
+the Sigule-Salang list	1148/1149	mola lepas	NA	los <unsp.>	loose [ID_1148]; loosely fitting [ID_1149]	lepas [ID_1148]; longgar, kendur [ID_1149]	724	741	792	FALSE									LOOSE	2506	https://concepticon.clld.org/parameters/2506
 the Sigule-Salang list	1150	atoewa²	NA	oud	old	tua	725	742	793	TRUE									OLD	1229	https://concepticon.clld.org/parameters/1229
 the Sigule-Salang list	1152	afoejoe	32	jong	young	muda	726	743	795	FALSE			afoejoe			adv	adv		YOUNG	1207	https://concepticon.clld.org/parameters/1207
 the Sigule-Salang list	1152	nonō binatang	32	jong	young	muda	726	743	795	FALSE			nonō binatang			noun	noun		YOUNG	1207	https://concepticon.clld.org/parameters/1207
@@ -717,7 +676,7 @@ the Sigule-Salang list	1169	afala	NA	rood	red	merah	744	762	811	TRUE									RED
 the Sigule-Salang list	1170	<anira toela?>	NA	bruin	brown	coklat	745	763	812	FALSE									BROWN	2409	https://concepticon.clld.org/parameters/2409
 the Sigule-Salang list	1171	koenèng	NA	geel	yellow	kuning	746	764	813	TRUE									YELLOW	1424	https://concepticon.clld.org/parameters/1424
 the Sigule-Salang list	1172	idjau langi	NA	blauw	blue	biru	747	765	814	FALSE									BLUE	837	https://concepticon.clld.org/parameters/837
-the Sigule-Salang list	1172	 boewaai	NA	blauw	blue	biru	747	765	814	FALSE									BLUE	837	https://concepticon.clld.org/parameters/837
+the Sigule-Salang list	1172	boewaai	NA	blauw	blue	biru	747	765	814	FALSE									BLUE	837	https://concepticon.clld.org/parameters/837
 the Sigule-Salang list	1173	hidjoe	NA	groen	green	hijau	748	766	815	TRUE									GREEN	1425	https://concepticon.clld.org/parameters/1425
 the Sigule-Salang list	1174	òfaˈí	NA	zoeken	to look for	mencari	749	767	816	FALSE									LOOK FOR	1468	https://concepticon.clld.org/parameters/1468
 the Sigule-Salang list	1175	dopè	NA	vinden	to find	menemukan	750	768	817	FALSE									FIND	719	https://concepticon.clld.org/parameters/719
@@ -734,24 +693,28 @@ the Sigule-Salang list	1195	oeila machoman	NA	weten	to know	tahu, mengetahui	151
 the Sigule-Salang list	1197	alimboe	NA	vergeten zijn	to have forgotten something	lupa	153	158	839	FALSE									FORGET	1523	https://concepticon.clld.org/parameters/1523
 the Sigule-Salang list	1199	mengakoe	NA	bekennen	to confess	mengaku	155	160	841	FALSE									ADMIT	2022	https://concepticon.clld.org/parameters/2022
 the Sigule-Salang list	1200	mèleuleng	NA	zwijgen	to be silent	diam	156	161	842	FALSE									BE SILENT	48	https://concepticon.clld.org/parameters/48
-the Sigule-Salang list	1200	 metaon	NA	zwijgen	to be silent	diam	156	161	842	FALSE									BE SILENT	48	https://concepticon.clld.org/parameters/48
+the Sigule-Salang list	1200	metaon	NA	zwijgen	to be silent	diam	156	161	842	FALSE									BE SILENT	48	https://concepticon.clld.org/parameters/48
 the Sigule-Salang list	1201	euchi kòmèk	NA	prevelen	to mumble	komat-kamit	157	162	-	FALSE									MUMBLE	128	https://concepticon.clld.org/parameters/128
 the Sigule-Salang list	1202	besarå	NA	spreken	to speak	berbicara	132	134	843	TRUE	speak								SPEAK	1623	https://concepticon.clld.org/parameters/1623
 the Sigule-Salang list	1203	sindang²	NA	zingen	to sing	bernyanyi	146	151	844	TRUE	sing								SING	1261	https://concepticon.clld.org/parameters/1261
 the Sigule-Salang list	1204	kòmèh	NA	fluisteren	to whisper	berbisik-bislk	-	-	845	FALSE									WHISPER	55	https://concepticon.clld.org/parameters/55
 the Sigule-Salang list	1206	malainde	NA	roepen	to call	memanggil	147	152	847	FALSE									CALL	1084	https://concepticon.clld.org/parameters/1084
 the Sigule-Salang list	1208	fafaecha	33	kunnen	to be able to	dapat, sanggup	754	772	849	FALSE			laneuchoe fafacha	not able					BE ABLE	972	https://concepticon.clld.org/parameters/972
-the Sigule-Salang list	1208	 denih foeila	33	kunnen	to be able to	dapat, sanggup	754	772	849	FALSE			laneuchoe fafacha	not able					BE ABLE	972	https://concepticon.clld.org/parameters/972
+the Sigule-Salang list	1208	denih foeila	33	kunnen	to be able to	dapat, sanggup	754	772	849	FALSE			laneuchoe fafacha	not able					BE ABLE	972	https://concepticon.clld.org/parameters/972
 the Sigule-Salang list	1209	denih	34	mogen	to be allowed	boleh, diperbolehkan	-	-	-	FALSE			ade denih	not allowed					ALLOW	3238	https://concepticon.clld.org/parameters/3238
 the Sigule-Salang list	1210	keradja	NA	werken	to work	bekerja	756	774	851	TRUE	work								WORK (ACTIVITY)	1086	https://concepticon.clld.org/parameters/1086
 the Sigule-Salang list	1211-1214/1220/1221	nioha	NA	dragen <unsp.>	to shoulder [ID_1211]; to carry on the head [ID_1212]; to carry something hanging from the hand [ID_1213]; to carry on the hip [ID_1214]; to carry on the back [ID_1220]; to carry in front of oneself [ID_1221]	memikul [ID_1211]; menjunjung (di atas kepala) [ID_1212]; menjinjing [ID_1213]; menggendong, mendukung [ID_1214]; memikul (di punggung) [ID_1220]; menggendong di muka (memeluk) [ID_1221]	130	-	-	FALSE									NA	NA	NA
-the Sigule-Salang list	1211-1214/1220/1221	 ohāˈ	NA	dragen <unsp.>	to shoulder [ID_1211]; to carry on the head [ID_1212]; to carry something hanging from the hand [ID_1213]; to carry on the hip [ID_1214]; to carry on the back [ID_1220]; to carry in front of oneself [ID_1221]	memikul [ID_1211]; menjunjung (di atas kepala) [ID_1212]; menjinjing [ID_1213]; menggendong, mendukung [ID_1214]; memikul (di punggung) [ID_1220]; menggendong di muka (memeluk) [ID_1221]	130	-	-	FALSE									NA	NA	NA
+the Sigule-Salang list	1211-1214/1220/1221	ohāˈ	NA	dragen <unsp.>	to shoulder [ID_1211]; to carry on the head [ID_1212]; to carry something hanging from the hand [ID_1213]; to carry on the hip [ID_1214]; to carry on the back [ID_1220]; to carry in front of oneself [ID_1221]	memikul [ID_1211]; menjunjung (di atas kepala) [ID_1212]; menjinjing [ID_1213]; menggendong, mendukung [ID_1214]; memikul (di punggung) [ID_1220]; menggendong di muka (memeluk) [ID_1221]	130	-	-	FALSE									NA	NA	NA
+the Sigule-Salang list	122/123	soelòˈ	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			soelòˈ	hairpin					HAIR	1040	https://concepticon.clld.org/parameters/1040
+the Sigule-Salang list	122/123	boe	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			boe, boeˈōˈ/ōˈ						HAIR	1040	https://concepticon.clld.org/parameters/1040
+the Sigule-Salang list	122/123	boeˈōˈ	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			boe, boeˈōˈ/ōˈ						HAIR	1040	https://concepticon.clld.org/parameters/1040
+the Sigule-Salang list	122/123	ōˈ	3	haar <unsp.>	body hair [ID_122]; body hair (animal) [ID_123]	bulu [ID_122]; bulu (binatang) [ID_123]	71	72	-	FALSE			boe, boeˈōˈ/ōˈ						HAIR	1040	https://concepticon.clld.org/parameters/1040
 the Sigule-Salang list	1222	djagå	NA	waken	to wake, to watch	berjaga (dgn. sengaja tidak tidur)	757	775	853	FALSE									WAKE UP	1602	https://concepticon.clld.org/parameters/1602
 the Sigule-Salang list	1225	mangongofaj	NA	loeren	to spy	mengintai	758	776	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	1226	faieu	NA	wachten	to wait	menunggu	-	-	855	FALSE									WAIT (FOR)	1590	https://concepticon.clld.org/parameters/1590
 the Sigule-Salang list	1227	långå	NA	horen	to hear	mendengar	-	777	856	TRUE	hear								HEAR	1408	https://concepticon.clld.org/parameters/1408
 the Sigule-Salang list	1228	ninèehèˈ	NA	zien	to see	melihat	-	778	857	TRUE									SEE	1409	https://concepticon.clld.org/parameters/1409
-the Sigule-Salang list	1228	 niēla	NA	zien	to see	melihat	-	778	857	TRUE									SEE	1409	https://concepticon.clld.org/parameters/1409
+the Sigule-Salang list	1228	niēla	NA	zien	to see	melihat	-	778	857	TRUE									SEE	1409	https://concepticon.clld.org/parameters/1409
 the Sigule-Salang list	1229	njakó	NA	ruiken	to smell	mencium	-	779	858	TRUE	smell								SMELL (PERCEIVE)	1586	https://concepticon.clld.org/parameters/1586
 the Sigule-Salang list	1230	oerasasai	NA	voelen	to feel	merasai	-	-	859	FALSE									FEEL	1079	https://concepticon.clld.org/parameters/1079
 the Sigule-Salang list	1233	manginoe	NA	slurpen	to slurp	menghirup	-	780	862	FALSE									CONSUME (DRINK OR EAT)	2787	https://concepticon.clld.org/parameters/2787
@@ -771,10 +734,10 @@ the Sigule-Salang list	1253-1255	abéta aboentoeng	NA	breken <unsp.>	to break (
 the Sigule-Salang list	1259	niòhe	35	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze		niohe	to pinch					SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
 the Sigule-Salang list	1259	tafeu	35	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze		tafeu	to squeeze					SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
 the Sigule-Salang list	1260/1261	alomin	NA	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE									START	3449	https://concepticon.clld.org/parameters/3449
-the Sigule-Salang list	1260/1261	 nialoenèn	NA	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE									START	3449	https://concepticon.clld.org/parameters/3449
+the Sigule-Salang list	1260/1261	nialoenèn	NA	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE									START	3449	https://concepticon.clld.org/parameters/3449
 the Sigule-Salang list	1262/1263	ŭtŭt	NA	eindigen <unsp.>	to finish (tr.) [ID_1262]; to finish (intr.) [ID_1263]	menyudahi (tr.) [ID_1262]; berhenti, selesai (intr.) [ID_1263]	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
 the Sigule-Salang list	1264	aboaé	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie								TIE	1917	https://concepticon.clld.org/parameters/1917
-the Sigule-Salang list	1264	 beubeu	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie								TIE	1917	https://concepticon.clld.org/parameters/1917
+the Sigule-Salang list	1264	beubeu	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie								TIE	1917	https://concepticon.clld.org/parameters/1917
 the Sigule-Salang list	1265/1266	nibinieu	NA	verbergen, zich verbergen <unsp.>	to hide (something to hide) [ID_1265]; to hide [ID_1266]	menyembunyikan (sesuatu) [ID_1265]; bersembunyi [ID_1266]	768	793	-	FALSE									HIDE (CONCEAL)	602	https://concepticon.clld.org/parameters/602
 the Sigule-Salang list	1267	iméuˈ	NA	vragen	to ask	bertanya	148	153	884	FALSE									ASK (INQUIRE)	1309	https://concepticon.clld.org/parameters/1309
 the Sigule-Salang list	1270	eadeudeu	NA	weigeren	to refuse	menolak	770	795	887	FALSE									REFUSE	49	https://concepticon.clld.org/parameters/49
@@ -782,7 +745,7 @@ the Sigule-Salang list	1271	djoesta	NA	bedriegen	to cheat, to deceive	menipu	771
 the Sigule-Salang list	1272	soelit	NA	liegen	to tell lies	berdusta	-	797	889	FALSE									LIE (MISLEAD)	601	https://concepticon.clld.org/parameters/601
 the Sigule-Salang list	1274	niboōˈ	NA	weggooien	to throw away	membuang	-	-	891	TRUE	throw								THROW AWAY	3696	https://concepticon.clld.org/parameters/3696
 the Sigule-Salang list	1275	boewang	NA	gooien, werpen	to throw	melempar, melontar	-	-	892	TRUE	throw								THROW	1456	https://concepticon.clld.org/parameters/1456
-the Sigule-Salang list	1275	 bōˈō	NA	gooien, werpen	to throw	melempar, melontar	-	-	892	TRUE	throw								THROW	1456	https://concepticon.clld.org/parameters/1456
+the Sigule-Salang list	1275	bōˈō	NA	gooien, werpen	to throw	melempar, melontar	-	-	892	TRUE	throw								THROW	1456	https://concepticon.clld.org/parameters/1456
 the Sigule-Salang list	1277	nitoetoeng	NA	branden (onoverg.)	to burn (intr.)	sedang terbakar (intr.)	759	783	894	TRUE	burn								BURNING	1428	https://concepticon.clld.org/parameters/1428
 the Sigule-Salang list	1278	nioˈō	NA	graven	to dig	menggali	773	799	895	TRUE	dig								DIG	1418	https://concepticon.clld.org/parameters/1418
 the Sigule-Salang list	1279	bala	NA	gaan	to go	pergi	-	-	896	FALSE									GO	695	https://concepticon.clld.org/parameters/695
@@ -795,23 +758,23 @@ the Sigule-Salang list	1289	mefatoetoe	NA	verzamelen	to collect	mengumpulkan	-	-
 the Sigule-Salang list	1291	nièntoˈ	NA	slaan (op allerlei wijzen, bv. met de vlakke hand, met een stok, met een buigzaam, voorwerp enz.)	to hit (to beat, to slap, etc.)	memukul (menampar meninju dll.)	792	694/786	907	TRUE	hit								STRIKE OR BEAT	2133	https://concepticon.clld.org/parameters/2133
 the Sigule-Salang list	1292	mĕlè mĕlè	NA	wreken	to take revenge	membalas dendam	681	696	908	FALSE									REVENGE	495	https://concepticon.clld.org/parameters/495
 the Sigule-Salang list	1293	amba	NA	een	one	satu	870	885	909	TRUE									ONE	1493	https://concepticon.clld.org/parameters/1493
-the Sigule-Salang list	1293	 ala	NA	een	one	satu	870	885	909	TRUE									ONE	1493	https://concepticon.clld.org/parameters/1493
+the Sigule-Salang list	1293	ala	NA	een	one	satu	870	885	909	TRUE									ONE	1493	https://concepticon.clld.org/parameters/1493
 the Sigule-Salang list	1294	doea	NA	twee	two	dua	871	886	910	TRUE									TWO	1498	https://concepticon.clld.org/parameters/1498
 the Sigule-Salang list	1295	tigå	NA	drie	three	tiga	872	887	911	TRUE									THREE	492	https://concepticon.clld.org/parameters/492
-the Sigule-Salang list	1295	 tēloe	NA	drie	three	tiga	872	887	911	TRUE									THREE	492	https://concepticon.clld.org/parameters/492
+the Sigule-Salang list	1295	tēloe	NA	drie	three	tiga	872	887	911	TRUE									THREE	492	https://concepticon.clld.org/parameters/492
 the Sigule-Salang list	1296	euta	NA	vier	four	empat	873	888	912	TRUE		enpat (typo)							FOUR	1500	https://concepticon.clld.org/parameters/1500
 the Sigule-Salang list	1297	lima	NA	vijf	five	lima	874	889	913	TRUE									FIVE	493	https://concepticon.clld.org/parameters/493
 the Sigule-Salang list	1298	enam	NA	zes	six	enam	875	890	914	TRUE									SIX	1703	https://concepticon.clld.org/parameters/1703
-the Sigule-Salang list	1298	 ĕunĕ	NA	zes	six	enam	875	890	914	TRUE									SIX	1703	https://concepticon.clld.org/parameters/1703
+the Sigule-Salang list	1298	ĕunĕ	NA	zes	six	enam	875	890	914	TRUE									SIX	1703	https://concepticon.clld.org/parameters/1703
 the Sigule-Salang list	1299	toedjoeh	NA	zeven	seven	tujuh	876	891	915	TRUE									SEVEN	1704	https://concepticon.clld.org/parameters/1704
-the Sigule-Salang list	1299	 fitoe	NA	zeven	seven	tujuh	876	891	915	TRUE									SEVEN	1704	https://concepticon.clld.org/parameters/1704
+the Sigule-Salang list	1299	fitoe	NA	zeven	seven	tujuh	876	891	915	TRUE									SEVEN	1704	https://concepticon.clld.org/parameters/1704
 the Sigule-Salang list	1300	åloe	NA	acht	eight	delapan	877	892	916	TRUE									EIGHT	1705	https://concepticon.clld.org/parameters/1705
 the Sigule-Salang list	1301	siwa	NA	negen	nine	sembilan	878	893	917	TRUE									NINE	1483	https://concepticon.clld.org/parameters/1483
 the Sigule-Salang list	1302	sapoeloeh	NA	tien	ten	sepuluh	879	894	918	TRUE									TEN	1515	https://concepticon.clld.org/parameters/1515
-the Sigule-Salang list	1302	 foeloeh	NA	tien	ten	sepuluh	879	894	918	TRUE									TEN	1515	https://concepticon.clld.org/parameters/1515
+the Sigule-Salang list	1302	foeloeh	NA	tien	ten	sepuluh	879	894	918	TRUE									TEN	1515	https://concepticon.clld.org/parameters/1515
 the Sigule-Salang list	1303	féléàla	NA	elf	eleven	sebelas	880	895	919	TRUE									ELEVEN	1706	https://concepticon.clld.org/parameters/1706
 the Sigule-Salang list	1304	fēlin doea	NA	twaalf	twelve	dua belas	881	896	920	TRUE									TWELVE	1707	https://concepticon.clld.org/parameters/1707
-the Sigule-Salang list	1304	 fele doea	NA	twaalf	twelve	dua belas	881	896	920	TRUE									TWELVE	1707	https://concepticon.clld.org/parameters/1707
+the Sigule-Salang list	1304	fele doea	NA	twaalf	twelve	dua belas	881	896	920	TRUE									TWELVE	1707	https://concepticon.clld.org/parameters/1707
 the Sigule-Salang list	1305	tigå balè	NA	dertien	thirteen	tiga belas	882	897	921	FALSE									THIRTEEN	1708	https://concepticon.clld.org/parameters/1708
 the Sigule-Salang list	1311	fèlèsewa	NA	negentien	nineteen	sembilan belas	888	899	922	FALSE									NINETEEN	1714	https://concepticon.clld.org/parameters/1714
 the Sigule-Salang list	1312	doea foeloeh	NA	twintig	twenty	dua puluh	889	900	923	TRUE									TWENTY	1710	https://concepticon.clld.org/parameters/1710
@@ -822,12 +785,12 @@ the Sigule-Salang list	1317	eufa foeloeh	NA	veertig	fourty	empat puluh	893	904	9
 the Sigule-Salang list	1318	lima foeloeh	NA	vijftig	fifty	lima puluh	894	905	927	FALSE									FIFTY	1717	https://concepticon.clld.org/parameters/1717
 the Sigule-Salang list	1319	euneunga foeloeh	NA	zestig	sixty	enam puluh	895	906	928	FALSE									SIXTY	1718	https://concepticon.clld.org/parameters/1718
 the Sigule-Salang list	1323	saratoei	NA	honderd	hundred	seratus	896	907	932	TRUE									HUNDRED	1634	https://concepticon.clld.org/parameters/1634
-the Sigule-Salang list	1323	 ōtoe	NA	honderd	hundred	seratus	896	907	932	TRUE									HUNDRED	1634	https://concepticon.clld.org/parameters/1634
+the Sigule-Salang list	1323	ōtoe	NA	honderd	hundred	seratus	896	907	932	TRUE									HUNDRED	1634	https://concepticon.clld.org/parameters/1634
 the Sigule-Salang list	1324	sariboe	NA	duizend	thousand	seribu	897	908	933	TRUE									THOUSAND	1843	https://concepticon.clld.org/parameters/1843
 the Sigule-Salang list	1325	foeloeh ngalipati	NA	tienduizend	ten thousand	sepuluh ribu	898	909	934	FALSE									TEN THOUSAND	2078	https://concepticon.clld.org/parameters/2078
 the Sigule-Salang list	1326	matongah	NA	een half	a half	setengah	899	910	935	FALSE									HALF	816	https://concepticon.clld.org/parameters/816
 the Sigule-Salang list	1327	bagi empèt	NA	een kwart	a quarter	seperempat	900	911	936	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Sigule-Salang list	1327	 saper empet	NA	een kwart	a quarter	seperempat	900	911	936	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
+the Sigule-Salang list	1327	saper empet	NA	een kwart	a quarter	seperempat	900	911	936	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	1328	acholi	NA	eenmaal	once	sekali	901	912	937	FALSE									ONE TIME	374	https://concepticon.clld.org/parameters/374
 the Sigule-Salang list	1329	dàˈcholi	NA	tweemaal	twice	dua kali	902	913	938	FALSE									TWICE	1546	https://concepticon.clld.org/parameters/1546
 the Sigule-Salang list	1330/1331	aféhé åfeuna	NA	de eerste <unsp.>	first (in space) [ID_1330]; first (in time) [ID_1331]	pertama [ID_1330]; pertama kali [ID_1331]	903	914	939	FALSE									FIRST	728	https://concepticon.clld.org/parameters/728
@@ -839,11 +802,11 @@ the Sigule-Salang list	1340	eutofé	NA	weinig	few, a little	sedikit	827	844	945
 the Sigule-Salang list	1341	failawa	NA	op	finished	habis	823	840	946	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Sigule-Salang list	1347	<bawa²?>	NA	meer	more	lebih	828	845	952	FALSE									MORE	1992	https://concepticon.clld.org/parameters/1992
 the Sigule-Salang list	1351	alènè	NA	geheel	whole	sama sekali	-	-	955	FALSE									WHOLE	2277	https://concepticon.clld.org/parameters/2277
-the Sigule-Salang list	1351	 makale	NA	geheel	whole	sama sekali	-	-	955	FALSE									WHOLE	2277	https://concepticon.clld.org/parameters/2277
+the Sigule-Salang list	1351	makale	NA	geheel	whole	sama sekali	-	-	955	FALSE									WHOLE	2277	https://concepticon.clld.org/parameters/2277
 the Sigule-Salang list	1353	samå²	36	gelijk	alike, similar	mirip, sama	-	-	957	FALSE			falawo	flat	rata				SIMILAR	1558	https://concepticon.clld.org/parameters/1558
-the Sigule-Salang list	1353	 falawan	36	gelijk	alike, similar	mirip, sama	-	-	957	FALSE			falawo	flat	rata				SIMILAR	1558	https://concepticon.clld.org/parameters/1558
+the Sigule-Salang list	1353	falawan	36	gelijk	alike, similar	mirip, sama	-	-	957	FALSE			falawo	flat	rata				SIMILAR	1558	https://concepticon.clld.org/parameters/1558
 the Sigule-Salang list	1354	(lentōˈ)	NA	genoeg	enough	cukup	-	-	958	FALSE									ENOUGH	1881	https://concepticon.clld.org/parameters/1881
-the Sigule-Salang list	1354	 tjokoei	NA	genoeg	enough	cukup	-	-	958	FALSE									ENOUGH	1881	https://concepticon.clld.org/parameters/1881
+the Sigule-Salang list	1354	tjokoei	NA	genoeg	enough	cukup	-	-	958	FALSE									ENOUGH	1881	https://concepticon.clld.org/parameters/1881
 the Sigule-Salang list	1357	jotō	NA	ik	I	saya	837	853	960	TRUE									I	1209	https://concepticon.clld.org/parameters/1209
 the Sigule-Salang list	1359	<ègeu?>	NA	gij (enk.) <jij>	you (sing.)	kamu, engkau	838	854	962	TRUE	thou								THOU	1215	https://concepticon.clld.org/parameters/1215
 the Sigule-Salang list	1360	<ègeu?>	NA	gij (meerv.) <jullie>	you (pl.)	kamu sekalian	842	-	-	TRUE	ye								YOU	1213	https://concepticon.clld.org/parameters/1213
@@ -856,7 +819,7 @@ the Sigule-Salang list	1366	euta	NA	wij (met uitsluiting der toegesproken persoo
 the Sigule-Salang list	1367/1368	<ofeu i?>	NA	zij <unsp.>	they (female) [ID_1367]; they (male) [ID_1368]	mereka, kata ganti orang ke III jamak (perempuan) [ID_1367]; mereka, kata ganti orang ke III jamak (laki-laki) [ID_1368]	-	-	967	FALSE									NA	NA	NA
 the Sigule-Salang list	1373/1374	<tjeugeu?>	NA	uw <unsp.>	your (sing.) [ID_1373]; your (pl.) [ID_1374]	kata ganti empunya orang ke II tunggal [ID_1373]; kata ganti empunya orang ke II jamak [ID_1374]	847	862	970	FALSE									YOUR (SINGULAR)	732	https://concepticon.clld.org/parameters/732
 the Sigule-Salang list	1375/1376	ihi	NA	hun <unsp.>	their (female) [ID_1375]; their (male) [ID_1376]	kata ganti empunya orang ke III jamak (perempuan) [ID_1375]; kata ganti empunya orang ke III jamak (laki-laki) [ID_1376]	848	863	971	FALSE									THEIR	2400	https://concepticon.clld.org/parameters/2400
-the Sigule-Salang list	1375/1376	 nampoen	NA	hun <unsp.>	their (female) [ID_1375]; their (male) [ID_1376]	kata ganti empunya orang ke III jamak (perempuan) [ID_1375]; kata ganti empunya orang ke III jamak (laki-laki) [ID_1376]	848	863	971	FALSE									THEIR	2400	https://concepticon.clld.org/parameters/2400
+the Sigule-Salang list	1375/1376	nampoen	NA	hun <unsp.>	their (female) [ID_1375]; their (male) [ID_1376]	kata ganti empunya orang ke III jamak (perempuan) [ID_1375]; kata ganti empunya orang ke III jamak (laki-laki) [ID_1376]	848	863	971	FALSE									THEIR	2400	https://concepticon.clld.org/parameters/2400
 the Sigule-Salang list	1378	(h)ōˈ	NA	zijn	his	kata ganti empunya orang ke III tunggal (laki-laki)	849	864	972	FALSE									HIS (GENITIVE OF HE)	2473	https://concepticon.clld.org/parameters/2473
 the Sigule-Salang list	1379	èta ae	NA	wie	who?	siapa	850	865	973	TRUE	who								WHO	1235	https://concepticon.clld.org/parameters/1235
 the Sigule-Salang list	1380	aiteu é	NA	wat	what?	apa	851	866	974	TRUE	what								WHAT	1236	https://concepticon.clld.org/parameters/1236
@@ -867,7 +830,7 @@ the Sigule-Salang list	1387	adehoe mihan	NA	gindse	overthere, yonder	itu (di san
 the Sigule-Salang list	1388	mandèè	NA	hier	here	di sini	855	870	979	TRUE									HERE	136	https://concepticon.clld.org/parameters/136
 the Sigule-Salang list	1389	mèhĕn	NA	daar (bij U)	there (near hearer)	di situ (di sebelah pendengar)	856	871	980	FALSE									THERE	1937	https://concepticon.clld.org/parameters/1937
 the Sigule-Salang list	1390	adehoe milan	NA	ginds	there	di sana	-	-	981	TRUE									THERE	1937	https://concepticon.clld.org/parameters/1937
-the Sigule-Salang list	1390	 aaihan	NA	ginds	there	di sana	-	-	981	TRUE									THERE	1937	https://concepticon.clld.org/parameters/1937
+the Sigule-Salang list	1390	aaihan	NA	ginds	there	di sana	-	-	981	TRUE									THERE	1937	https://concepticon.clld.org/parameters/1937
 the Sigule-Salang list	1391	naié	NA	die (betrekkelijk voornaamwoord)	which, who, that	yang	-	-	982	FALSE									WHICH	727	https://concepticon.clld.org/parameters/727
 the Sigule-Salang list	1394	loewoe	37	dag (en tijden van dag)	day	hari	781	805	983	TRUE			labewo	in the afternoon					DAY (24 HOURS)	1260	https://concepticon.clld.org/parameters/1260
 the Sigule-Salang list	1394	loewoe	37	dag (en tijden van dag)	day	hari	781	805	983	TRUE			sóbó	in the morning					DAY (24 HOURS)	1260	https://concepticon.clld.org/parameters/1260
@@ -882,7 +845,8 @@ the Sigule-Salang list	1406	amba faché	NA	jaar	year	tahun	785	807	990	TRUE				
 the Sigule-Salang list	1408	élaléé	NA	nu	now	sekarang	790	810	991	FALSE									NOW	1376	https://concepticon.clld.org/parameters/1376
 the Sigule-Salang list	1409	faieu akadjab	41	straks	shortly	sebentar lagi	791	811	992	FALSE			faien	later	nanti				SOON	703	https://concepticon.clld.org/parameters/703
 the Sigule-Salang list	1410	èlalèè	NA	thans	now, at present	kini	792	-	-	FALSE									NOW OR TODAY	2097	https://concepticon.clld.org/parameters/2097
-the Sigule-Salang list	1411	afieu/aféé	NA	vroeger	formerly	tempo hari	793	812	993	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
+the Sigule-Salang list	1411	afieu	NA	vroeger	formerly	tempo hari	793	812	993	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
+the Sigule-Salang list	1411	aféé	NA	vroeger	formerly	tempo hari	793	812	993	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
 the Sigule-Salang list	1412/1413	faifeuna	NA	voor <unsp.>	before (place) [ID_1412]; before (time) [ID_1413]	di muka [ID_1412]; sebelum [ID_1413]	794	813	-	FALSE									BEFORE	1882	https://concepticon.clld.org/parameters/1882
 the Sigule-Salang list	1416	ménoa	NA	zoe_ven	a moment ago	tadi	797	815	995	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
 the Sigule-Salang list	1417	atepinga	42	eventjes, een ogenblikje	a moment	seketika, sebentar	-	-	996	FALSE			faieu laheu akadjab	to wait a while					INSTANTLY (IMMEDIATELY)	2916	https://concepticon.clld.org/parameters/2916
@@ -909,9 +873,9 @@ the Sigule-Salang list	1445	angkĕn	NA	bij	at	di, pada	816	833	1022	TRUE							
 the Sigule-Salang list	1447	leuntōeˈ	NA	tot	until	hingga	818	835	-	FALSE									UNTIL	2753	https://concepticon.clld.org/parameters/2753
 the Sigule-Salang list	1448	fà	NA	te	at, in	di	819	836	1022	TRUE	at								AT	1461	https://concepticon.clld.org/parameters/1461
 the Sigule-Salang list	1450	faibacha	NA	in	in, inside	di (dalam)	821	838	1022	TRUE	in								INSIDE	1606	https://concepticon.clld.org/parameters/1606
-the Sigule-Salang list	1450	 cha	NA	in	in, inside	di (dalam)	821	838	1022	TRUE	in								INSIDE	1606	https://concepticon.clld.org/parameters/1606
+the Sigule-Salang list	1450	cha	NA	in	in, inside	di (dalam)	821	838	1022	TRUE	in								INSIDE	1606	https://concepticon.clld.org/parameters/1606
 the Sigule-Salang list	1451	migala	NA	uit	out, outside	luar, (di) luar	822	839	-	FALSE									OUTSIDE	762	https://concepticon.clld.org/parameters/762
-the Sigule-Salang list	1451	 imeuifaté	NA	uit	out, outside	luar, (di) luar	822	839	-	FALSE									OUTSIDE	762	https://concepticon.clld.org/parameters/762
+the Sigule-Salang list	1451	imeuifaté	NA	uit	out, outside	luar, (di) luar	822	839	-	FALSE									OUTSIDE	762	https://concepticon.clld.org/parameters/762
 the Sigule-Salang list	1452	āteuh	NA	nabij	nearby	di dekat, di	774	800	1023	TRUE	near								NEAR	1942	https://concepticon.clld.org/parameters/1942
 the Sigule-Salang list	1453	adĕaoe	NA	veraf	far	jauh	777	803	1024	TRUE							<adĕhoe?>		FAR	1406	https://concepticon.clld.org/parameters/1406
 the Sigule-Salang list	1454	salinkai	NA	rondom	around, surrounding	se-kellling	778	804	1025	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -936,115 +900,153 @@ the Sigule-Salang list	1485	sebab	45	omdat	because	karena, sebab	-	-	1047	TRUE		
 the Sigule-Salang list	1485	sebab	45	omdat	because	karena, sebab	-	-	1047	TRUE			gering	angry					BECAUSE	1157	https://concepticon.clld.org/parameters/1157
 the Sigule-Salang list	1485	sebab	45	omdat	because	karena, sebab	-	-	1047	TRUE			doe	me					BECAUSE	1157	https://concepticon.clld.org/parameters/1157
 the Sigule-Salang list	1486	iaachō	NA	geen	no, not a, none	tidak, tidak ada, bukan	831	848	-	FALSE									NO OR NOT	2279	https://concepticon.clld.org/parameters/2279
-the Sigule-Salang list	add_1	aloehi	NA	NA	to burn (of food which is being cooked)	membakar	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_2	beubeu	NA	NA	to fasten to	mengikat ke	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_3	pakamèˈ	NA	NA	to dress s.o.	berpakaian	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_4	(ièwtōˈ) niòtò	NA	NA	to knock on a door	mengetuk pintu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_5	nifaleucheu	NA	NA	to join	bergabung	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_6	niteboe	NA	NA	to tighten	mengencangkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_7	iendeu	NA	NA	to request, apply for	meminta	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_8	koengå	NA	NA	veins	pembulu darah	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_9	sapoe	NA	NA	to brush off	menyikat	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_10	iadeu euchi	NA	NA	to disapprove	tidak menyetujui	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_11	léléchi	NA	NA	to relieve	meredakan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_12	antara	NA	NA	distance	jarak	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_13	rampot	NA	NA	garbage, waste	sampah	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_14	sapoe	NA	NA	to wipe off	menghapus	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_15	atoea	NA	NA	already	sudah	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_16	salamoné	NA	NA	always	selalu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_17	faité nohé	NA	NA	behind the house	belakang rumah	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_18	apioen	NA	NA	opium	candu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_19	boekan betin	NA	NA	other	lainnya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_20	ataoet	NA	NA	fear	ketakutan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_21	bidan	NA	NA	chemist	ahli kimia	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_22	mangaacheumi	NA	NA	evening meal	makan malam	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_23	soekå	NA	NA	vinegar	cuka	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_24	karadja	NA	NA	labourer	buruh	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_25	nooche	NA	NA	division, part	divisi	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_26	toela baharòˈ	NA	NA	ballast	pemberat	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_27	pāêta	NA	NA	small bench	bangku kecil	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_28	toekang machoei	NA	NA	hairdresser	penata rambut	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_29	salimboet	NA	NA	to cover	menutupi	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_30	abehoe	NA	NA	to go bad	menjadi buruk	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_31	niboeloei	NA	NA	to pour on	menuangkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_32	mangarti	NA	NA	to understand	memahami	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_33	malengkan	NA	NA	except	kecuali	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_34	aebachaai	NA	NA	to need	membutuhkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_35	patoei	NA	NA	properly	dengan benar	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_36	hakim	NA	NA	the accused	terdakwa	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_37	tertit	NA	NA	polite	sopan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_38	mangahoe	NA	NA	to promise	berjanji	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_39	soekå	NA	NA	to love	mencintai	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_40	tentoe	NA	NA	definite	pasti	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_41	achaeufeui	NA	NA	to let know	memberi tahu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_42	fagéting dehoe	NA	NA	edge of forest	tepi hutan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_43	aefeu	NA	NA	ashamed	malu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_44	manèˈ	NA	NA	to assault	menyerang	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_45	parakè	NA	NA	to sweep <?>	menyapu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_46	faheu	NA	NA	chisel	pahat	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_47	panggil	NA	NA	to call	memanggil	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_48	boentin	NA	NA	wallet	dompet	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_49	daloeani	NA	NA	both	keduanya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_50	moeloe oeloe	NA	NA	to shiver	menggigil	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_51	simpan	NA	NA	to store, keep	menyimpan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_52	begeraˈ	NA	NA	to move	bergerak	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_53	sapoe	NA	NA	broom	sapu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_54	nampoeni	NA	NA	to possess	memiliki	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_55	soempa	NA	NA	to exorcise	mengusir	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_56	sembajang	NA	NA	to pray	berdoa	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_57	ambon	NA	NA	bellows	ubub	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_58	boeloe	NA	NA	blisters <?>	lecet	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_59	koewali èpaloea	NA	NA	to boast	menyombongkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_60	tolohi	NA	NA	to stay	tetap tinggal	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_61	nibawoei	NA	NA	to extinguish	memadamkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_61	 diboeloei	NA	NA	to extinguish	memadamkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_62	nitaoewi	NA	NA	cowardly <?>	pengecut	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_63	bilōˈ	NA	NA	bark	kulit kayu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_64	mangoepågasap	NA	NA	to embroider	menyulam	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_65	tanggoeng	NA	NA	to guarantee	menjamin	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_66	raboen	NA	NA	spectacles	kacamata	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_66	 samin	NA	NA	spectacles	kacamata	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_67	daōˈ	NA	NA	to bring	membawa	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_68	bengkin	NA	NA	to bow	membungkuk	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_69	tètoetoe	NA	NA	to bend	menekuk	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_70	bolat	NA	NA	ball	bola	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_71	temon	NA	NA	to add	menambahkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_72	meuleu	NA	NA	intercourse	hubungan seksual	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_73	moeataawi	NA	NA	afraid	takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_73	 wataoewi	NA	NA	afraid	takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_74	palenta	NA	NA	<an> order		NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_75	oechoe	NA	NA	a brush	kuas	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_76	denihia mataoewi	NA	NA	donˈt be afraid	jangan takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_77	mambon	NA	NA	circle	lingkaran	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_78	sebab	NA	NA	because of that	karena itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_79	atoea	NA	NA	afterwards	setelahnya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_80	akeadjab	NA	NA	at once	sekaligus	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_81	meucheu	NA	NA	daily	seiap hari	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_82	senang	NA	NA	grateful	bersyukur	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_83	lĕngkep félawa	NA	NA	deck	dek	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_84	lĕngkep	NA	NA	lid	tutup	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_85	matoe intan	NA	NA	diamond	berlian	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_86	āˈtew	NA	NA	nearby	terdekat	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_87	ata manāgen	NA	NA	thief	pencuri	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_88	tèngaoemangacholi	NA	NA	often	sering	NA	NA	NA	NA	NA	NA					banjaˈ kali		NA	NA	NA
-the Sigule-Salang list	add_89	nidoegå	NA	NA	sounding-lead		NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_90	bendjòdi	NA	NA	to gamble	berjudi	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_91	euchieun	NA	NA	to gamble	berjudi	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_92	doeabalé	NA	NA	dozen	selusin	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_93	inòjòˈ	NA	NA	whirlpool	pusaran air	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_94	niboetan	NA	NA	to turn	berbalik	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_95	boeajan	NA	NA	palanquin	tandu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_96	deˈwae itété	NA	NA	potion	ramuan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_97	tigå sagi	NA	NA	triangle	segitiga	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_98	tamanoeng	NA	NA	sadness	kesedihan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_99	pakså	NA	NA	to force, coerce	memaksa	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	233/234	deuwoe	NA	geneesmiddel < unsp.>	medicine [ID_233]; medicine (with magic power) [ID_234]	obat [ID_233]; obat (dari dukun) [ID_234]	-	-	190	FALSE									NA	NA	NA
+the Sigule-Salang list	236-238	manoesia	NA	mens <unsp.>	man, mankind [ID_236]; people [ID_237]; people [ID_238]	manusia [ID_236]; orang [ID_237]; orang [ID_238]	-	-	191	FALSE									NA	NA	NA
+the Sigule-Salang list	243/244	imatoea nonoko	NA	mannelijk <unsp.>	male (human) [ID_243]; male (animal) [ID_244]	laki-laki [ID_243]; jantan [ID_244]	110	111	195	FALSE									MALE	1553	https://concepticon.clld.org/parameters/1553
+the Sigule-Salang list	257/258	nònò	NA	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE									CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Sigule-Salang list	275/276	wāli	NA	oom <unsp.>	uncle FB [ID_275]; uncle MB [ID_276]	paman FB [ID_275]; paman MB [ID_276]	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
+the Sigule-Salang list	287-290	achékoe	NA	neef <unsp.>	nephew BoS [ID_287]; nephew ByS [ID_288]; nephew ZoS [ID_289]; nephew ZyS [ID_290]	kemenakan (laki-laki) BoS [ID_287]; kemenakan (laki-laki) ByS [ID_288]; kemenakan laki-laki ZoS [ID_289]; kemenakan laki-laki ZyS [ID_290]	98	99	215	FALSE									NA	NA	NA
+the Sigule-Salang list	291-294	kakah (kasewå)	NA	nicht <unsp.>	niece BoD [ID_291]; niece ByD [ID_292]; niece ZoD [ID_293]; niece ZyD [ID_294]	kemenakan perempuan BoD [ID_291]; kemenakan perempuan ByD [ID_292]; kemenakan perempuan ZoD [ID_293]; kemenakan perempuan ZyD [ID_294]	99	100	215	FALSE									NA	NA	NA
+the Sigule-Salang list	343/344	biehoe	NA	ziel, geest (v.e. levende, v.e. dode) <unsp.>	soul, spirit [ID_343]; soul, ghost [ID_344]	jiwa, nyawa, ruh [ID_343]; ruh orang mati [ID_344]	214	217	231	FALSE									NA	NA	NA
+the Sigule-Salang list	343/344	njawa	NA	ziel, geest (v.e. levende, v.e. dode) <unsp.>	soul, spirit [ID_343]; soul, ghost [ID_344]	jiwa, nyawa, ruh [ID_343]; ruh orang mati [ID_344]	214	217	231	FALSE									NA	NA	NA
+the Sigule-Salang list	407/408	chawin	NA	huwen <unsp.> huwelijk	to marry, to take a wife, marriage [ID_407]; to marry, to take a husband, marriage [ID_408]	kawin/menikah, berbini, perkawinan [ID_407]; kawin/menikah, berlaki, perkawinan [ID_408]	246	244	258	FALSE									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
+the Sigule-Salang list	41/42	tòtòˈ	NA	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE									BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Sigule-Salang list	41/42	dòtòˈ	NA	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE									BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Salang-Sigule list	441/442	lengkěp nohé	NA	dakbedekking <unsp.>	roofing: thatch [ID_441]; roofing: bamboo lath [ID_442]	atap [ID_441]; atap: bilah, pelupuh bambu [ID_442]	268	268	-	FALSE		add. Malay							ROOF	769	https://concepticon.clld.org/parameters/769
+the Salang-Sigule list	456/457	fofaˈ	NA	vloer <unsp.>	floor (made from bamboo lath) [ID_456]; floor (made from wood) [ID_457]	lantai (dari bambu) [ID_456]; lantai (dari kayu) [ID_457]	274	276	289	FALSE									FLOOR	1632	https://concepticon.clld.org/parameters/1632
+the Salang-Sigule list	458/459	dinding	NA	omwanding <unsp.>	wall (plank wall) [ID_458]; wall (bamboo wall) [ID_459]	dinding (papan) [ID_458]; dinding (bilik) [ID_459]	275	277	290	FALSE									NA	NA	NA
+the Salang-Sigule list	472/473	bangkawan	NA	zolder, zolderrek <unsp.>	attic (under the roof) [ID_472]; rack above the fireplace [ID_473]	loteng [ID_472]; para-para [ID_473]	285	286	-	FALSE									NA	NA	NA
+the Salang-Sigule list	495/496	kanèt	NA	rijstketel <unsp.>	rice kettle (copper) [ID_495]; rice kettle (earthenware) [ID_496]	dandang [ID_495]; kundia [ID_496]	312	314	-	FALSE									NA	NA	NA
+the Salang-Sigule list	501/502	gambateu	NA	schotel <unsp.>	saucer (earthenware) [ID_501]; small saucer (earthenware) [ID_502]	pinggan [ID_501]; pinggan kecil [ID_502]	317	318	315	FALSE									NA	NA	NA
+the Salang-Sigule list	525-527	manogaj	NA	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE									COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Salang-Sigule list	525-527	auwhōˈ	NA	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE									COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Salang-Sigule list	539/540	inalan	NA	vlees <unsp. >	meat (raw) [ID_539]; dried meat [ID_540]	daging (mentah) [ID_539]; dendeng [ID_540]	335	336	-	FALSE									FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
+the Salang-Sigule list	543-545	beula	NA	rijst (rijst in de halm, gepelde rauwe rijst, gekookte rijst <unsp.>	harvested rice [ID_543]; husked rice [ID_544]; cooked rice [ID_545]	padi yang sudah diketam [ID_543]; beras [ID_544]; nasi [ID_545]	-	338	-	FALSE									NA	NA	NA
+the Salang-Sigule list	569/570	badji	NA	baadje <unsp.>	jacket (for women) [ID_569]; jacket (for men) [ID_570]	baju perempuan [ID_569]; baju laki-laki [ID_570]	-	420	372	FALSE									NA	NA	NA
+the Salang-Sigule list	571/572	bedahaj	NA	hoofddoek <unsp.>	head cloth (for women) [ID_571]; head cloth (for men) [ID_572]	ikat kepala perempuan [ID_571]; ikat kepala laki-laki [ID_572]	-	421	373	FALSE									NA	NA	NA
+the Salang-Sigule list	579-581	beubeusaloenonoˈ	NA	band of ring <unsp.>	arm ring, bracelet [ID_579]; anklet [ID_580]; arm ring (upper arm) [ID_581]	gelang tangan [ID_579]; gelang laki [ID_580]; gelang lengan [ID_581]	-	-	377	FALSE									NA	NA	NA
+the Salang-Sigule list	605/606	kopper	NA	tas of zak <unsp.>	bag (woven bag) [ID_605]; bag (made from rope) [ID_606]	tas (dari bahan tenun) [ID_605]; tas (dari tali) [ID_606]	432	434	392	FALSE									NA	NA	NA
+the Salang-Sigule list	654/655	novi	NA	rijstveld <unsp.>	rice-field (wet, sawah) [ID_654]; rice-field (dry) [ID_655]	sawah [ID_654]; huma, ladang [ID_655]	443	445	424	FALSE									NA	NA	NA
+the Salang-Sigule list	657/658	loeëng	NA	waterleiding, waterloop <unsp.>	irrigation [ID_657]; water-course channel [ID_658]	pengairan [ID_657]; aliran air, terusan [ID_658]	-	-	426	FALSE									NA	NA	NA
+the Salang-Sigule list	657/658	pesoran	NA	waterleiding, waterloop <unsp.>	irrigation [ID_657]; water-course channel [ID_658]	pengairan [ID_657]; aliran air, terusan [ID_658]	-	-	426	FALSE									NA	NA	NA
+the Salang-Sigule list	662/663	nitoněu	NA	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE									SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Salang-Sigule list	671/672	mamahi	NA	oogsten <unsp.>	to reap [ID_671]; to gather [ID_672]	menuai [ID_671]; mengumpulkan (buah-buahan) [ID_672]	453	455	-	FALSE									HARVEST	611	https://concepticon.clld.org/parameters/611
+the Salang-Sigule list	716-718	gaai (baba)	NA	pisang <unsp.>	banana [ID_716]; banana (wild) [ID_717]; banana (fruit) [ID_718]	pisang [ID_716]; pisang (liar) [ID_717]; pisang (buah) [ID_718]	489	492	464	FALSE									BANANA	868	https://concepticon.clld.org/parameters/868
+the Salang-Sigule list	739/740	daha	NA	tak <unsp.>	branch [ID_739]; twig [ID_740]	dahan, cabang [ID_739]; ranting [ID_740]	542	550	477	FALSE									BRANCH	1531	https://concepticon.clld.org/parameters/1531
+the Salang-Sigule list	742-744	lèmbanaˈ	NA	wortel <unsp.>	main root, taproot [ID_742]; side-root [ID_743]; fibrous root [ID_744]	ibu akar, akar tunggang [ID_742]; akar samping [ID_743]; akar serabut [ID_744]	543	552	479	TRUE	root								ROOT	670	https://concepticon.clld.org/parameters/670
+the Salang-Sigule list	800-802	keubaw djalang	NA	buffel <unsp.>	buffalo (female) [ID_800]; buffalo (male) [ID_801]; buffalo (calf) [ID_802]	kerbau betina [ID_800]; kerbau jantan [ID_801]; anak kerbau [ID_802]	362	364	527	FALSE									NA	NA	NA
+the Salang-Sigule list	803/804	sapialiha	NA	koebeest, rund <unsp.>	cow [ID_803]; bull [ID_804]	sapi (betina) [ID_803]; sapi (jantan) [ID_804]	360	362	528	FALSE									NA	NA	NA
+the Sigule-Salang list	901/902	feunoe	NA	schildpad <unsp.>	tortoise [ID_901]; turtle [ID_902]	kura-kura [ID_901]; penyu [ID_902]	413	416	-	FALSE									NA	NA	NA
+the Sigule-Salang list	942/943	banoewàˈ	NA	land <unsp.>	land [ID_942]; land (state) [ID_943]	darat [ID_942]; negara [ID_943]	532	538	-	FALSE									NA	NA	NA
+the Sigule-Salang list	add_001	aloehi	NA	NA	to burn (of food which is being cooked)	membakar	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_002	beubeu	NA	NA	to fasten to	mengikat ke	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_003	pakamèˈ	NA	NA	to dress s.o.	berpakaian	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_004	(ièwtōˈ) niòtò	NA	NA	to knock on a door	mengetuk pintu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_005	nifaleucheu	NA	NA	to join	bergabung	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_006	niteboe	NA	NA	to tighten	mengencangkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_007	iendeu	NA	NA	to request, apply for	meminta	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_008	koengå	NA	NA	veins	pembulu darah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_009	sapoe	NA	NA	to brush off	menyikat	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_010	iadeu euchi	NA	NA	to disapprove	tidak menyetujui	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_011	léléchi	NA	NA	to relieve	meredakan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_012	antara	NA	NA	distance	jarak	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_013	rampot	NA	NA	garbage, waste	sampah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_014	sapoe	NA	NA	to wipe off	menghapus	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_015	atoea	NA	NA	already	sudah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_016	salamoné	NA	NA	always	selalu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_017	faité nohé	NA	NA	behind the house	belakang rumah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_018	apioen	NA	NA	opium	candu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_019	boekan betin	NA	NA	other	lainnya	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_020	ataoet	NA	NA	fear	ketakutan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_021	bidan	NA	NA	chemist	ahli kimia	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_022	mangaacheumi	NA	NA	evening meal	makan malam	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_023	soekå	NA	NA	vinegar	cuka	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_024	karadja	NA	NA	labourer	buruh	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_025	nooche	NA	NA	division, part	divisi	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_026	toela baharòˈ	NA	NA	ballast	pemberat	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_027	pāêta	NA	NA	small bench	bangku kecil	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_028	toekang machoei	NA	NA	hairdresser	penata rambut	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_029	salimboet	NA	NA	to cover	menutupi	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_030	abehoe	NA	NA	to go bad	menjadi buruk	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_031	niboeloei	NA	NA	to pour on	menuangkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_032	mangarti	NA	NA	to understand	memahami	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_033	malengkan	NA	NA	except	kecuali	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_034	aebachaai	NA	NA	to need	membutuhkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_035	patoei	NA	NA	properly	dengan benar	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_036	hakim	NA	NA	the accused	terdakwa	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_037	tertit	NA	NA	polite	sopan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_038	mangahoe	NA	NA	to promise	berjanji	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_039	soekå	NA	NA	to love	mencintai	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_040	tentoe	NA	NA	definite	pasti	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_041	achaeufeui	NA	NA	to let know	memberi tahu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_042	fagéting dehoe	NA	NA	edge of forest	tepi hutan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_043	aefeu	NA	NA	ashamed	malu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_044	manèˈ	NA	NA	to assault	menyerang	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_045	parakè	NA	NA	to sweep <?>	menyapu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_046	faheu	NA	NA	chisel	pahat	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_047	panggil	NA	NA	to call	memanggil	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_048	boentin	NA	NA	wallet	dompet	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_049	daloeani	NA	NA	both	keduanya	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_050	moeloe oeloe	NA	NA	to shiver	menggigil	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_051	simpan	NA	NA	to store, keep	menyimpan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_052	begeraˈ	NA	NA	to move	bergerak	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_053	sapoe	NA	NA	broom	sapu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_054	nampoeni	NA	NA	to possess	memiliki	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_055	soempa	NA	NA	to exorcise	mengusir	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_056	sembajang	NA	NA	to pray	berdoa	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_057	ambon	NA	NA	bellows	ubub	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_058	boeloe	NA	NA	blisters <?>	lecet	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_059	koewali èpaloea	NA	NA	to boast	menyombongkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_060	tolohi	NA	NA	to stay	tetap tinggal	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_061	nibawoei	NA	NA	to extinguish	memadamkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_061	diboeloei	NA	NA	to extinguish	memadamkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_062	nitaoewi	NA	NA	cowardly <?>	pengecut	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_063	bilōˈ	NA	NA	bark	kulit kayu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_064	mangoepågasap	NA	NA	to embroider	menyulam	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_065	tanggoeng	NA	NA	to guarantee	menjamin	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_066	raboen	NA	NA	spectacles	kacamata	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_066	samin	NA	NA	spectacles	kacamata	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_067	daōˈ	NA	NA	to bring	membawa	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_068	bengkin	NA	NA	to bow	membungkuk	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_069	tètoetoe	NA	NA	to bend	menekuk	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_070	bolat	NA	NA	ball	bola	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_071	temon	NA	NA	to add	menambahkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_072	meuleu	NA	NA	intercourse	hubungan seksual	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_073	moeataawi	NA	NA	afraid	takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_073	wataoewi	NA	NA	afraid	takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_074	palenta	NA	NA	<an> order		NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_075	oechoe	NA	NA	a brush	kuas	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_076	denihia mataoewi	NA	NA	donˈt be afraid	jangan takut	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_077	mambon	NA	NA	circle	lingkaran	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_078	sebab	NA	NA	because of that	karena itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_079	atoea	NA	NA	afterwards	setelahnya	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_080	akeadjab	NA	NA	at once	sekaligus	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_081	meucheu	NA	NA	daily	seiap hari	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_082	senang	NA	NA	grateful	bersyukur	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_083	lĕngkep félawa	NA	NA	deck	dek	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_084	lĕngkep	NA	NA	lid	tutup	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_085	matoe intan	NA	NA	diamond	berlian	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_086	āˈtew	NA	NA	nearby	terdekat	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_087	ata manāgen	NA	NA	thief	pencuri	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_088	tèngaoemangacholi	NA	NA	often	sering	NA	NA	NA	NA	NA	NA					banjaˈ kali		NA	NA	NA
+the Sigule-Salang list	add_089	nidoegå	NA	NA	sounding-lead		NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_090	bendjòdi	NA	NA	to gamble	berjudi	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_091	euchieun	NA	NA	to gamble	berjudi	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_092	doeabalé	NA	NA	dozen	selusin	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_093	inòjòˈ	NA	NA	whirlpool	pusaran air	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_094	niboetan	NA	NA	to turn	berbalik	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_095	boeajan	NA	NA	palanquin	tandu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_096	deˈwae itété	NA	NA	potion	ramuan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_097	tigå sagi	NA	NA	triangle	segitiga	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_098	tamanoeng	NA	NA	sadness	kesedihan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_099	pakså	NA	NA	to force, coerce	memaksa	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_100	galangan	NA	NA	small dike	tanggul kecil	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_101	sabang	NA	NA	crossroads	persimpangan jalan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_102	melawa	NA	NA	to push	mendorong	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_103	olan	NA	NA	oar	dayung	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_104	nofōˈ	NA	NA	path	djaloer	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_105	mechening	NA	NA	dizzy	pusing	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_105	 dehoe	NA	NA	dizzy	pusing	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_105	dehoe	NA	NA	dizzy	pusing	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_106	sètan	NA	NA	devil	setan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_107	iadeu iila lala	NA	NA	to roam	menjelajah	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_108	paksa	NA	NA	force, pressure	tekanan	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1062,12 +1064,12 @@ the Sigule-Salang list	add_119	nohékoe méa mea	NA	NA	his own house	rumahnya 
 the Sigule-Salang list	add_120	iadeu mona	NA	NA	not like that	boekan bagitoe	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_121	ari rajå	NA	NA	feast-day	hari raya	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_122	tarimå	NA	NA	a tip	sebuah tip	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_122	 presen	NA	NA	a tip	sebuah tip	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_122	presen	NA	NA	a tip	sebuah tip	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_123	aiaiaˈeu	NA	NA	to fool s.o.	menipu	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_124	alélé deula	NA	NA	to faint	pingsan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_125	gassoh	NA	NA	bottle	botol	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_126	itété	NA	NA	fine	baik	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_126	 haloes	NA	NA	fine	baik	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_126	haloes	NA	NA	fine	baik	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_127	coekoe doembatalahan	NA	NA	family association <?>	asosiasi keluarga	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_128	agoago	NA	NA	to yawn	menguap	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_129	kwe²	NA	NA	cake	kue	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1096,8 +1098,8 @@ the Sigule-Salang list	add_151	teula	NA	NA	fishbone	tulang ikan	NA	NA	NA	NA	NA	N
 the Sigule-Salang list	add_152	koentji	NA	NA	bolt	baut	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_153	eumba	NA	NA	greeting	salam	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_154	rasoi	NA	NA	feeling	perasaan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_154	 fènifi	NA	NA	feeling	perasaan	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_154	 bemimpi	NA	NA	feeling	perasaan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_154	fènifi	NA	NA	feeling	perasaan	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_154	bemimpi	NA	NA	feeling	perasaan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_155	mola atoewa	NA	NA	to be ready	bersiap	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_156	niohé afo dangan	NA	NA	to grasp, seize	menangkap	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_157	alagalaˈeu	NA	NA	hastily	tergesa-gesa	NA	NA	NA	NA	NA	NA					<alagalaˈeu?>		NA	NA	NA
@@ -1172,12 +1174,12 @@ the Sigule-Salang list	add_225	inacha	NA	NA	to learn	mempelajari	NA	NA	NA	NA	NA	
 the Sigule-Salang list	add_226	talon (failawa)	NA	NA	to put (s.t) on	memakai	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_227	autōˈ	NA	NA	leaking	bocor	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_228	ònòˈ	NA	NA	tasty	lezat	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_228	 amer	NA	NA	tasty	lezat	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_228	amer	NA	NA	tasty	lezat	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_229	teula dété	NA	NA	loins	pinggang	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_230	sendar	NA	NA	to lean against	bersandar	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_231	pegangan	NA	NA	railing	pagar	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_232	abeuheu	NA	NA	to read	membaca	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_232	 daāwat	NA	NA	to read	membaca	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_232	daāwat	NA	NA	to read	membaca	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_233	ami	NA	NA	nice	bagus	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_234	faea	NA	NA	corn (in pot)	jagung	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_235	bechafoei	NA	NA	linen	linen	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1203,7 +1205,7 @@ the Sigule-Salang list	add_254	afin	NA	NA	to accompany	menemani	NA	NA	NA	NA	NA	N
 the Sigule-Salang list	add_255	tèpang	NA	NA	flour	tepung	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_256	fikilan	NA	NA	opinion	pendapat	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_257	failò	NA	NA	melon	melon	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_257	 pepajaˈ kiamon	NA	NA	melon	melon	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_257	pepajaˈ kiamon	NA	NA	melon	melon	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_258	falacheu	NA	NA	to mix	menyampur	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_259	faˈeuna	NA	NA	pity	disayangkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_260	fabonoeh	NA	NA	to rebel	memberontak	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1223,7 +1225,8 @@ the Sigule-Salang list	add_273	talon	NA	NA	to put down	meletakkan	NA	NA	NA	NA	NA
 the Sigule-Salang list	add_274	oemeungan	NA	NA	humble	rendah hati	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_275	bangkawan	NA	NA	roof-ridge	bubungan atap	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_276	oebagai bachaoe	NA	NA	necessary	perlu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_277	iadeu biasa/iadeu achecho	NA	NA	never	tidak pernah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_277	iadeu biasa	NA	NA	never	tidak pernah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_277	iadeu achecho	NA	NA	never	tidak pernah	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_278	goenå	NA	NA	use	menggunakan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_279	aaihan	NA	NA	to		NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_280	achòchò	NA	NA	to sink	tenggelam	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1250,7 +1253,7 @@ the Sigule-Salang list	add_299	feefa nicha	NA	NA		bikan menjala	NA	NA	NA	NA	NA	N
 the Sigule-Salang list	add_300	iadeu dento	NA	NA		mengakoe saja sendiri	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_301	euchi pèèlni	NA	NA		baik dapoenya kalakoean	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_302	oenata faaleu	NA	NA	underworld	dunia bawah	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_302	 daneu boemi	NA	NA	underworld	dunia bawah	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_302	daneu boemi	NA	NA	underworld	dunia bawah	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_303	iadeu dentoˈ mangakoe	NA	NA	to deny	menolak	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_304	nadenada ioana	NA	NA	also	juga	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_305	ami	NA	NA	sweet	manis	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1269,7 +1272,7 @@ the Sigule-Salang list	add_317	meulenda	NA	NA	to spend the night	menghabiskan ma
 the Sigule-Salang list	add_318	meen itano (djaberang)	NA	NA	to cross a river	menyeberangi sungai	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_319	fadehoe	NA	NA	aside	di sisi	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_320	djahot	NA	NA	a rebel	pemberontak	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_320	 melawan	NA	NA	a rebel	pemberontak	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_320	melawan	NA	NA	a rebel	pemberontak	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_321	oeloe	NA	NA	torch	obor	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_322	iadaheu mooela adat	NA	NA	uncivilised	tidak beradab	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_323	bedjanji	NA	NA	agreement	persetujuan	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1356,7 +1359,7 @@ the Sigule-Salang list	add_402	melawan	NA	NA	audacious	berani	NA	NA	NA	NA	NA	NA	
 the Sigule-Salang list	add_403	tewabeulleu	NA	NA	stiff	kaku	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_404	baléchi alé	NA	NA	straw	jerami	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_405	stroop	NA	NA	strap	tali	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_405	 oelabi	NA	NA	strap	tali	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_405	oelabi	NA	NA	strap	tali	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_406	gombor	NA	NA	scaly <?>	bersisik	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_407	roemah bola	NA	NA	club	klub	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_408	abaga	NA	NA	ditch	parit	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1382,7 +1385,7 @@ the Sigule-Salang list	add_427	djagå	NA	NA	to watch	memantau	NA	NA	NA	NA	NA	NA
 the Sigule-Salang list	add_428	olong pisoran	NA	NA	funnel	corong	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_429	ela	NA	NA	to pull	menarik	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_430	eatawe oewi	NA	NA	doubt	ragu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_430	 frepikeu oewotawe	NA	NA	doubt	ragu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_430	frepikeu oewotawe	NA	NA	doubt	ragu	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_431	faboenoeh	NA	NA	to quarrel	bertengkar	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_432	tangko ˈ	NA	NA	time	waktu	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_433	senang	NA	NA	content	isi	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1408,7 +1411,7 @@ the Sigule-Salang list	add_452	baoisnajo	NA	NA	cask	peti	NA	NA	NA	NA	NA	NA						
 the Sigule-Salang list	add_453	bebé	NA	NA	hide	bersembunyi	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_454	tjiritera	NA	NA	story	cerita	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_455	nibaloet	NA	NA	bandage	perban	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_455	 dalélét	NA	NA	bandage	perban	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_455	dalélét	NA	NA	bandage	perban	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_456	faieu	NA	NA	to forbid	menghindari	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_457	faboenoeh	NA	NA	to fight	melawan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_458	samboej	NA	NA	defense	bertahan	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1447,7 +1450,7 @@ the Sigule-Salang list	add_490	lapé	NA	NA	lining	lapisan	NA	NA	NA	NA	NA	NA				
 the Sigule-Salang list	add_491	eu(da)	NA	NA	food	makanan	NA	NA	NA	NA	NA	NA					food: eu(da=enda kita); enda = kita poenja nasi		NA	NA	NA
 the Sigule-Salang list	add_492	achaea	NA	NA	forward	maju	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_493	euhi	NA	NA	to fill	mengisi	NA	NA	NA	NA	NA	NA					“ösi”, “ngösi” ‘to fill’ in Soendanese		NA	NA	NA
-the Sigule-Salang list	add_493	 neuhi	NA	NA	to fill	mengisi	NA	NA	NA	NA	NA	NA					“ösi”, “ngösi” ‘to fill’ in Soendanese		NA	NA	NA
+the Sigule-Salang list	add_493	neuhi	NA	NA	to fill	mengisi	NA	NA	NA	NA	NA	NA					“ösi”, “ngösi” ‘to fill’ in Soendanese		NA	NA	NA
 the Sigule-Salang list	add_494	nånå naiteu	NA	NA	spark	percikan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_495	batoe ai	NA	NA	flint	batu api	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_496	lachoep	NA	NA	be afraid	ketakutan	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1484,7 +1487,7 @@ the Sigule-Salang list	add_526	barat laˈot	NA	NA	north-west	barat laut	NA	NA	NA
 the Sigule-Salang list	add_527	abentoe	NA	NA	wart	kutil	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_528	malawan	NA	NA	cruel	kejam	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_529	lèpang	NA	NA	wide	lebar	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_529	 é soloh	NA	NA	wide	lebar	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_529	é soloh	NA	NA	wide	lebar	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_530	toba	NA	NA	to wake s.o. up	membangunkan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_531	toekar	NA	NA	to change (money)	mengubah	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_532	idaneu botoe	NA	NA	ice	es	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1501,30 +1504,20 @@ the Sigule-Salang list	add_542	eueacha	NA	NA	oneself	diri	NA	NA	NA	NA	NA	NA					
 the Sigule-Salang list	add_543	zink	NA	NA	zinc	seng	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_544	(h)ōˈ	NA	NA	his <?>	dia (laki laki)	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_545	audeufāˈfāaˈ denoe ni fouloe gélawa	NA	NA	How far away is the source of this river?	Berapa jauh sumber sungai ini?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_546	iadaeu barapå faaˈdenoen	NA	NA	Not far any more, perhaps two hours (walking), perhaps a bit less	Tidak jauh lagi, mungkin dua jam (berjalan kaki), mungkin kurang dari itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_546	 aka² doea djeum	NA	NA	Not far any more, perhaps two hours (walking), perhaps a bit less	Tidak jauh lagi, mungkin dua jam (berjalan kaki), mungkin kurang dari itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_546	 aka² iadeeu adehoe	NA	NA	Not far any more, perhaps two hours (walking), perhaps a bit less	Tidak jauh lagi, mungkin dua jam (berjalan kaki), mungkin kurang dari itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_547	lanfèˈfāaˈ lawani lheulheu ai	NA	NA	How high are those mountains, higher than mount Sifacha?	Seberapa tinggi gunung-gunung itu, lebih tinggi dari gunung Sifacha?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_547	 labih āˈlaua foeli faila lheulheu sefacha	NA	NA	How high are those mountains, higher than mount Sifacha?	Seberapa tinggi gunung-gunung itu, lebih tinggi dari gunung Sifacha?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_548	lala euchi lĕntōˈ fala laoet Tawar	NA	NA	Is the road to the lake good, or is it very mudy?	Apakah jalan menuju danau bagus atau sangat berlumpur?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_548	 atiō omboejoe agoja	NA	NA	Is the road to the lake good, or is it very mudy?	Apakah jalan menuju danau bagus atau sangat berlumpur?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_549	Iadeu acho io omboejoe	NA	NA	There is no mud; the road is flat, there are many alors and hills on both sides	Tidak ada lumpur; jalannya datar, banyak alor dan bukit di kedua sisinya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_549	 lala àtōˈ	NA	NA	There is no mud; the road is flat, there are many alors and hills on both sides	Tidak ada lumpur; jalannya datar, banyak alor dan bukit di kedua sisinya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_549	 o gajoja aloen afeu jama lheulheu	NA	NA	There is no mud; the road is flat, there are many alors and hills on both sides	Tidak ada lumpur; jalannya datar, banyak alor dan bukit di kedua sisinya	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_550	aiteuˈi ota beula aité batoˈfa fohé	NA	NA	Do you have rice or sago in the house, or do you eat langka fruit?	Apakah Anda punya nasi atau sagu di rumah, atau Anda makan buah langka?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_550	 aiteuˈi ogen manga dāup	NA	NA	Do you have rice or sago in the house, or do you eat langka fruit?	Apakah Anda punya nasi atau sagu di rumah, atau Anda makan buah langka?	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_546	iadaeu barapå faaˈdenoen, aka² doea djeum, aka² iadeeu adehoe	NA	NA	Not far any more, perhaps two hours (walking), perhaps a bit less	Tidak jauh lagi, mungkin dua jam (berjalan kaki), mungkin kurang dari itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_547	lanfèˈfāaˈ lawani lheulheu ai, labih āˈlaua foeli faila lheulheu sefacha	NA	NA	How high are those mountains, higher than mount Sifacha?	Seberapa tinggi gunung-gunung itu, lebih tinggi dari gunung Sifacha?	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_548	lala euchi lĕntōˈ fala laoet Tawar, atiō omboejoe agoja	NA	NA	Is the road to the lake good, or is it very mudy?	Apakah jalan menuju danau bagus atau sangat berlumpur?	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_549	Iadeu acho io omboejoe, lala àtōˈ, o gajoja aloen afeu jama lheulheu	NA	NA	There is no mud; the road is flat, there are many alors and hills on both sides	Tidak ada lumpur; jalannya datar, banyak alor dan bukit di kedua sisinya	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_550	aiteuˈi ota beula aité batoˈfa fohé, aiteuˈi ogen manga dāup	NA	NA	Do you have rice or sago in the house, or do you eat langka fruit?	Apakah Anda punya nasi atau sagu di rumah, atau Anda makan buah langka?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_551	aiteuˈi ōlōfogen atawa bacham manginoe	NA	NA	Are you hungry or thirsty?	Apakah Anda lapar atau haus?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_552	feun doeˈ eu datoeˈ achaeu fari datoeˈ méindé indé faboecha toean	NA	NA	Call the datoe and tell him that the toean has arrived; ask him to come here	Panggil datoe dan beri tahu dia bahwa toean telah tiba; memintanya untuk datang ke sini	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_553	awāˈa ia deugeu choemaha awāa salamonéé tonton fohé	NA	NA	Why donˈt you work instead of staying home all the time?	Mengapa kamu tidak bekerja saja daripada tinggal di rumah sepanjang waktu?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_554	oka alélé deulama oka achĕumĕu	NA	NA	We are weak and ill; this man here has pain in the limbs.	Kami lemah dan sakit; pria ini mengalami nyeri pada anggota badannya.	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_554	 ialaˈaé afĕuchĕu cha deulani	NA	NA	We are weak and ill; this man here has pain in the limbs.	Kami lemah dan sakit; pria ini mengalami nyeri pada anggota badannya.	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_555	āhō nohem	NA	NA	Where do you live, and where are you from; where are you going tomorrow?	Di mana Anda tinggal dan dari mana asal Anda; besok mau kemana?	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_555	 ageu folowi ageu meuˈi foengi	NA	NA	Where do you live, and where are you from; where are you going tomorrow?	Di mana Anda tinggal dan dari mana asal Anda; besok mau kemana?	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_554	oka alélé deulama oka achĕumĕu, ialaˈaé afĕuchĕu cha deulani	NA	NA	We are weak and ill; this man here has pain in the limbs.	Kami lemah dan sakit; pria ini mengalami nyeri pada anggota badannya.	NA	NA	NA	NA	NA	NA							NA	NA	NA
+the Sigule-Salang list	add_555	āhō nohem, ageu folowi ageu meuˈi foengi	NA	NA	Where do you live, and where are you from; where are you going tomorrow?	Di mana Anda tinggal dan dari mana asal Anda; besok mau kemana?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_556	igafai nofi nitaneu	NA	NA	When are they going to plant rice on those fields?	Kapan mereka akan menanam padi di lahan tersebut?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_557	aiteuˈi ōfaché nitaneu cha padang	NA	NA	Are they going to plant rice on those fields?	Apakah mereka akan menanam padi di ladang itu?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_558	oechaˈi màmàjan bòdeufāˈ mànà faˈò bajan geujani	NA	NA	I donˈt want to pay so much	Saya tidak ingin membayar begitu banyak	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_559	moeboecha bachong	NA	NA	Youˈll get <some> tobacco if you carry this message to Sibigo on the quick	Anda akan mendapatkan <beberapa> tembakau jika Anda membawa pesan ini ke Sibigo dengan cepat	NA	NA	NA	NA	NA	NA					moeboech = koewi dapat; bachong = tobacco		NA	NA	NA
-the Sigule-Salang list	add_559	 bò achala doeloe kabar fa Sibigo	NA	NA	Youˈll get <some> tobacco if you carry this message to Sibigo on the quick	Anda akan mendapatkan <beberapa> tembakau jika Anda membawa pesan ini ke Sibigo dengan cepat	NA	NA	NA	NA	NA	NA					moeboech = koewi dapat; bachong = tobacco		NA	NA	NA
+the Sigule-Salang list	add_559	moeboecha bachong, bò achala doeloe kabar fa Sibigo	NA	NA	Youˈll get <some> tobacco if you carry this message to Sibigo on the quick	Anda akan mendapatkan <beberapa> tembakau jika Anda membawa pesan ini ke Sibigo dengan cepat	NA	NA	NA	NA	NA	NA					moeboech = koewi dapat; bachong = tobacco		NA	NA	NA
 the Sigule-Salang list	add_560	angafāˈ gambatoe ètoe mola oeˈeuli tĕuloengaoa ètoe oebajan betoel	NA	NA	Sell me those plates; I have already bought some and shall pay you well	Jual padaku piring-piring itu; Saya sudah membeli beberapa dan akan membayar Anda dengan baik	NA	NA	NA	NA	NA	NA					mola = already; oeeuli = to buy; teuloengaoa = bidji		NA	NA	NA
 the Sigule-Salang list	add_561	laufèˈ nata cha kampoeng ahō nòhe	NA	NA	How many people live in that village, and where are the houses?	Berapa banyak orang yang tinggal di desa itu, dan di mana rumahnya?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_562	gelawa aié iadeu denih nibachai	NA	NA	This river is not navigable	Sungai ini tidak bisa dilayari	NA	NA	NA	NA	NA	NA							NA	NA	NA
@@ -1533,10 +1526,8 @@ the Sigule-Salang list	add_564	ō ganétéla han faˈè foelai deuˈik manjo
 the Sigule-Salang list	add_565	toejap loewo monge fai boeah keeuw eeuwoe	NA	NA	Every day they go to the forest to look for fruit	Setiap hari mereka pergi ke hutan untuk mencari buah-buahan	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_566	laufè loewa iadaeu téoe	NA	NA	For how many days hasnˈt there been any rain?	Sudah berapa hari tidak turun hujan?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_567	iadaeu otoe nata labeutoe	NA	NA	It is not true what that chap is telling!	Tidak benar apa yang dikatakan orang itu!	NA	NA	NA	NA	NA	NA					nata = orang; labeutoe = omong		NA	NA	NA
-the Sigule-Salang list	add_568	lala sabang	NA	NA	There is a fork in the road - where do we go now?	Ada persimpangan jalan - kemana kita harus pergi sekarang?	NA	NA	NA	NA	NA	NA					ako = saja; achadjabai = sebentar sekarang		NA	NA	NA
-the Sigule-Salang list	add_568	 ako meuˈih achadjabai	NA	NA	There is a fork in the road - where do we go now?	Ada persimpangan jalan - kemana kita harus pergi sekarang?	NA	NA	NA	NA	NA	NA					ako = saja; achadjabai = sebentar sekarang		NA	NA	NA
+the Sigule-Salang list	add_568	lala sabang, ako meuˈih achadjabai	NA	NA	There is a fork in the road - where do we go now?	Ada persimpangan jalan - kemana kita harus pergi sekarang?	NA	NA	NA	NA	NA	NA					ako = saja; achadjabai = sebentar sekarang		NA	NA	NA
 the Sigule-Salang list	add_569	Etaˈeu dauni nata ialoe deuˈik ilaoe manggacha beti. Oni wakil mòndaˈoe manoe oefeué kèpèng empèt poeloeh āla	NA	NA	Whatˈs that chapˈs name? Will he be able to carry this box? Tell the wakil to fetch a couple of chickens; he can pay forty cents apiece for them	Siapa nama orang itu? Apakah dia mampu membawa kotak ini? Beritahu wakil untuk mengambil beberapa ekor ayam; dia bisa membayar empat puluh sen masing-masing untuk itu	NA	NA	NA	NA	NA	NA							NA	NA	NA
-the Sigule-Salang list	add_570	daˈoe méindē nata achalaˈeu	NA	NA	Quick, fetch that chap; Iˈm leaving a group behind here	Cepat, ambil orang itu; Saya meninggalkan grup di sini	NA	NA	NA	NA	NA	NA					oefeue = kasih; toeloewe = tinggal		NA	NA	NA
-the Sigule-Salang list	add_570	 oefeué toeloewa satoe groep	NA	NA	Quick, fetch that chap; Iˈm leaving a group behind here	Cepat, ambil orang itu; Saya meninggalkan grup di sini	NA	NA	NA	NA	NA	NA					oefeue = kasih; toeloewe = tinggal		NA	NA	NA
+the Sigule-Salang list	add_570	daˈoe méindē nata achalaˈeu, oefeué toeloewa satoe groep	NA	NA	Quick, fetch that chap; Iˈm leaving a group behind here	Cepat, ambil orang itu; Saya meninggalkan grup di sini	NA	NA	NA	NA	NA	NA					oefeue = kasih; toeloewe = tinggal		NA	NA	NA
 the Sigule-Salang list	add_571	Laufèˈ failonni ialafé achĕumĕu toean niféé deuoe	NA	NA	How long has this woman been ill? The (white) man will give you medicine	Sudah berapa lama wanita ini sakit? Orang (kulit putih) akan memberimu obat	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Sigule-Salang list	add_572	afin tōˈ òfai	NA	NA	Follow me and look for (it)	Ikuti saya dan cari (itu)	NA	NA	NA	NA	NA	NA							NA	NA	NA
