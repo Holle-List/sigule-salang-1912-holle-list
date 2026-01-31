@@ -16,6 +16,8 @@ work</a> © 2026 is licensed under
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International</a>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18437402.svg)](https://doi.org/10.5281/zenodo.18437402)
+
 <!-- badges: end -->
 
 ------------------------------------------------------------------------
@@ -68,6 +70,7 @@ translations of the wordlist are computationally joined:
 > 1912) derived from Stokhof and Almanar’s ‘Holle lists: Vocabularies in
 > languages of Indonesia, Vol. 10/3: Islands off the west coast of
 > Sumatra’ from 1987* (Version 1.0.0) \[Dataset\].
+> <https://doi.org/10.5281/zenodo.18437402>
 > <https://github.com/Holle-List/sigule-salang-1912-holle-list>
 
 ## References
@@ -90,7 +93,7 @@ Kadiman, S. G. (2026). *Digitised wordlist for Sigulei and Salang (NBG
 1912) derived from Stokhof and Almanar’s "Holle lists: Vocabularies in
 languages of Indonesia, Vol. 10/3: Islands off the west coast of
 Sumatra" from 1987* (Version 1.0.0) \[Dataset\].
-<https://github.com/Holle-List/sigule-salang-1912-holle-list>
+<https://doi.org/10.5281/zenodo.18437402>
 
 </div>
 

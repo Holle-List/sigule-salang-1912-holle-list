@@ -34,6 +34,10 @@ authors:
     family-names: Kadiman
     email: sams.gk7734@gmail.com
     affiliation: Udayana University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18437402
+    description: Zenodo DOI
 repository-code: >-
   https://github.com/Holle-List/sigule-salang-1912-holle-list
 keywords:
